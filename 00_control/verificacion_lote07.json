@@ -1,0 +1,221 @@
+{
+  "lote": "L07",
+  "archivos": [
+    {
+      "archivo": "losas_piedra_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "744a5ea8f16e1da232223b5c03f325c98d99e67076c17abb728aeb2826ad458f"
+    },
+    {
+      "archivo": "losas_piedra_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "911ab286e6c6975e9f860d52af6fce26c2706beb81115d0bb2d64a333717730e"
+    },
+    {
+      "archivo": "losas_piedra_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "cbf7fbd4625153beba85c71e29c4336a7e33e7519f8454cadc11559e59400813"
+    },
+    {
+      "archivo": "tierra_apisonada_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "1a411ff9ef04a8fd95c9180bfb22e4a4cc8c0b1f472c3b50f2c3db45aebf8bd5"
+    },
+    {
+      "archivo": "tierra_apisonada_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "5f8dd0071c2c37187fc65bcdabe4bb2178264e104af8053322a57aeb7e089609"
+    },
+    {
+      "archivo": "tierra_apisonada_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "148f45e1e3190c00ca4cb618a8d96178f34da5e890a364eda6bd90db89b60126"
+    },
+    {
+      "archivo": "grava_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "863f73d5560876b8ba4cbd090254a443d158492e32aad7540eb64f3e2d929b38"
+    },
+    {
+      "archivo": "grava_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "2548095f88b7194235c93202fc2dc6e72f95e486eb1670dac618fcc99c9f185b"
+    },
+    {
+      "archivo": "grava_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "062b51a6cb8034acf74f1caa1327e21b8da969b15b64292d2556780eee8ede08"
+    },
+    {
+      "archivo": "toldo_lino_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "1751b474868a93c8222da6652b4496365a233fa57869ababee9a7b5954bb2549"
+    },
+    {
+      "archivo": "toldo_lino_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "b852c9aa4a0bf6c226a5c0a0f2f76dcfab70e7f4e88dd41cd5bdb4195fed3cb9"
+    },
+    {
+      "archivo": "toldo_lino_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "f2eb4a626e0f18b574286c4d68a77abae1d0314c28ad963b177e0d2f3cf29631"
+    },
+    {
+      "archivo": "tierra_arada_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "d14f18df1edaf94fc2a9d197aaccb47d180a16ae878a0df9449b2f1477083486"
+    },
+    {
+      "archivo": "tierra_arada_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "b1af14c8d2e03696575c916456958c0a0e090f3cb38117b22b75784e8ae04b12"
+    },
+    {
+      "archivo": "tierra_arada_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "c2d1d314fb24037c0fedb3dbd509acbf3546ce77b15149547ee12423371d79c3"
+    },
+    {
+      "archivo": "hierba_corta_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "1972eb87858cf6ba0dec4465c67411c32e67d69c0aaa78d2225149ff33fc0ae4"
+    },
+    {
+      "archivo": "hierba_corta_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "2cde3e84fb45828460787633896bafc6af4e9b489b41cf746e649b8e9d6fe132"
+    },
+    {
+      "archivo": "hierba_corta_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "698bde08f099ce1c6a5fdde9a9f4476b28fa1b77b1bb56a18cbe74975108f2dc"
+    },
+    {
+      "archivo": "arcilla_humeda_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "1125c814b0154cade74836cb1e191657fce37bd67fcdda67ac622eca8514fe80"
+    },
+    {
+      "archivo": "arcilla_humeda_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "b8171937f2e35ae6e4f206e8bd8692a79612fda9636054ad97332472aedd8bf2"
+    },
+    {
+      "archivo": "arcilla_humeda_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "a60aaad91a573cf4c9400b6a9c0efb11fa4a697737cdb0332c64e7b930718136"
+    },
+    {
+      "archivo": "vertedero_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "25b4bef6009b23bb0734a421bee4d6572270ea06abce3a3a4de2c496900c301d"
+    },
+    {
+      "archivo": "vertedero_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "2027ccbca2ec915cb5c883441a91a2516bcec99c62455861336085fba3fe70c4"
+    },
+    {
+      "archivo": "vertedero_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "e336240774a566542f8b1e5451e4d228d2f9a6a45312e7e2b9199468238f9425"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "lote": "L13",
+  "archivos": [
+    {
+      "archivo": "revoque_claro_palermo_a.png",
+      "sha256": "41c40f28073fa3639bf576b952d3e34f166d63f4cd15bd8961d605c15f182ab0",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_claro_palermo_b.png",
+      "sha256": "49fb2b231dbfeaad7a1ecc4d326ff54a0e731e2773bff8ac5c8449daa225b189",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_claro_palermo_c.png",
+      "sha256": "4235bde001652dc3c6fec01ef5503bd3b416c3e5aa7a54e528b3da96f88714f6",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "cupula_roja_palermo_a.png",
+      "sha256": "32502cd141a9712bec417a5b94bfe2212f6cde8fba63a07fd4b4a8175feb787e",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "cupula_roja_palermo_b.png",
+      "sha256": "6283745514610da3129e4f12a36069605d03f53424b73f8a9d9fccabbbca97a8",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "cupula_roja_palermo_c.png",
+      "sha256": "01ea3bc0fe44d7bd8c3aa348f129ce40918db0e5dd5ec68e7567319f2158a26f",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "arcos_entrelazados_palermo_a.png",
+      "sha256": "ca8514cf7124be279451d4681f8c4c7468689a4fc3241322de5025e8f80da3bf",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "arcos_entrelazados_palermo_b.png",
+      "sha256": "bf72ebd9349b4776d61d50df7b5a2377bd9dcb4369fa23e794308719afd98766",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "arcos_entrelazados_palermo_c.png",
+      "sha256": "6c281a5e7d57cb1eb0b817ed1b7966217330e2347276d71de895d65ad5503961",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "mayolica_siciliana_palermo_a.png",
+      "sha256": "014e6373f0e069e9d223768bde51540e84d30784fdf2e1da655d78f7249a22be",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "mayolica_siciliana_palermo_b.png",
+      "sha256": "50d2665faac3a9d871b07cd034e7e94ea591b6c6b3cd247f0a79a1567296e6a8",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "mayolica_siciliana_palermo_c.png",
+      "sha256": "a80ea237aa383c2c92ef549f8652ccafbeabf6075e911cc5ca7020750cb912a8",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "basalto_etna_palermo_a.png",
+      "sha256": "0fd1e81e2872f5982e6ba498bcd355d7a58b60006c8dbd4976381b8ee1e8a550",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "basalto_etna_palermo_b.png",
+      "sha256": "6c42b7daab0798f97a87142b1784e41111699acabdd0f564f6f56075654770de",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "basalto_etna_palermo_c.png",
+      "sha256": "f504d74473fe9689e9b28c9ca5d41c3c81385944828d4113ac799bfecbc9e896",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    }
+  ]
+}

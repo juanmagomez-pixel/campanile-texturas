@@ -1,0 +1,140 @@
+{
+  "lote": "L05",
+  "imagenes": [
+    {
+      "archivo": "vidrio_rulli_a.png",
+      "sha256": "ef90554c0185d2cfd26dcc7cb1f8c25394a83cb59eabd096f58c90c8f653fed4",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidrio_rulli_b.png",
+      "sha256": "f7af65d6d69781ea2ab8575189d0302a1e4ac34134c8c240d4419800660c27c9",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidrio_rulli_c.png",
+      "sha256": "066c4e94409e0c93d0c5fa66fdc08f4af547079829316e6249386bfcbe17fd38",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidrio_cuarterones_a.png",
+      "sha256": "2c9c904df2d1350794094ffb4f7f7b7e12b7de20828bb3e63b73ad9ba21d8ce4",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidrio_cuarterones_b.png",
+      "sha256": "653750d9d14c68b11f54e0bd210bb6d9e5f19c22c8f67803aa489b6a021513ff",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidrio_cuarterones_c.png",
+      "sha256": "38c5bc54500714c0304452b1139226ecca7f8eaa9c5257e5f6852f4f1fc7b65c",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidriera_iglesia_a.png",
+      "sha256": "c0851a718ae55e96ca34537f3062af48a346c5cd6b058a0dba67a3ae2972f36c",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidriera_iglesia_b.png",
+      "sha256": "7587e52bd23c1003abb115814208e349b70363ed18aad5a76161c59e6b2f50cb",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "vidriera_iglesia_c.png",
+      "sha256": "9e20dc267efce99a4c9b001553a4711cee27ffd5088cc6435a9cb85727770c54",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "esgrafiado_florentino_a.png",
+      "sha256": "ca45a14b4e09ccc398e8e0988fa5787c990198bb9a00108e8a3a757122cbf673",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "esgrafiado_florentino_b.png",
+      "sha256": "9fa976a11c3bab5dc08e796e6db095851de3fbf75169c0aeb30ce0f207d6d302",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "esgrafiado_florentino_c.png",
+      "sha256": "035809b756385cfe11b3339830336296dc55a730ec51c7ea1416a078c53ced8c",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "terracota_decorativa_a.png",
+      "sha256": "0ee0dc0ed1b871a2ea76c9df896cf9ef6abf48a26a802daca39057f2db843b51",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "terracota_decorativa_b.png",
+      "sha256": "101d9e9a9c378164ab50a060fc9ac51070ab6a64c290981cbc18d43c3374d3ca",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "terracota_decorativa_c.png",
+      "sha256": "4efd475dbffca0690c1d3dc22e2ce0ca579dac2a8edfd55a70bc5da2fdf68858",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    }
+  ]
+}

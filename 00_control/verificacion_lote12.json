@@ -1,0 +1,140 @@
+{
+  "lote": "L12",
+  "archivos": [
+    {
+      "archivo": "ladrillo_antiguo_roma_a.png",
+      "sha256": "30319f246a77b118fa4397ea7a45aab84ded720c73006f5d62be2e7724283619",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "ladrillo_antiguo_roma_b.png",
+      "sha256": "e771e02375a5d35626045dca0d24f591fd8dcf6a8fc0302ba9f90e67231b13d9",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "ladrillo_antiguo_roma_c.png",
+      "sha256": "4c1b42f6f81783fa6bcbd2387cfcca802792bbd8c036524cb7e56a0933e462c6",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "peperino_gris_roma_a.png",
+      "sha256": "9f0704df4448b93ae26446f75f455b6358854b61159ef63121f75d4a5bffaebf",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "peperino_gris_roma_b.png",
+      "sha256": "6bbdb8a4e095a8a8c39d04389a4d38425dc70318b82032715136ba6704d7ba35",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "peperino_gris_roma_c.png",
+      "sha256": "b0bd9bd8be9e7c533e78880858a259236417ce851bbda99581f7e2f739c16347",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_amarillo_roma_a.png",
+      "sha256": "7100ba8628ee3574b7e73e2752d57151d9939e6f2f8ec9494a1af8478bbf024f",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_amarillo_roma_b.png",
+      "sha256": "ddc7aac39adf630b68551b87acebf5619362f9f06c7926602deca70d3f14fb48",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_amarillo_roma_c.png",
+      "sha256": "2b44d9cf55341981db58b831d966ced045a22e42d74dec2003cc80eb167d57d5",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "sampietrini_roma_a.png",
+      "sha256": "b3eab639a91dcd24c574ae7bca35d0c67a4527bbfb1c5151750304271eb7cb89",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "sampietrini_roma_b.png",
+      "sha256": "7433d7beb962c98e0cf1cdbd803c7b26b3412de313cad106deafc1d2bbf6394d",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "sampietrini_roma_c.png",
+      "sha256": "179bda82e5633c6fda1e82b0e64b1a5f49ee41011a0adc3e396cbceaaf04e3b9",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "mosaico_cosmatesco_roma_a.png",
+      "sha256": "d5b9875772a4710a1ffc1bbfcf9cf205e9f93f1148abd8fcf87c4a125429bd25",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "mosaico_cosmatesco_roma_b.png",
+      "sha256": "e446d28724b1e2b7ad22778917a4d29f1669cdd3c9dd0b68abdb40f86552baaf",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "mosaico_cosmatesco_roma_c.png",
+      "sha256": "e96fa2347cdb2fb0564a53f93cc749d6d7bebfd024a24fc7350f39d420794bf2",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    }
+  ]
+}

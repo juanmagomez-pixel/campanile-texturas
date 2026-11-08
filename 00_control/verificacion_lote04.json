@@ -1,0 +1,167 @@
+{
+  "lote": "L04",
+  "archivos": [
+    {
+      "archivo": "marmol_carrara_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "1fdc047221567c2ab969b891046e336ce0e6931c481f6d7c94e4f3ac1f710fd1"
+    },
+    {
+      "archivo": "marmol_carrara_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "0724ea77974cd992edca3e2537033aac34e6441f3d1b77db7be119a42d8ea7fc"
+    },
+    {
+      "archivo": "marmol_carrara_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "d1423f1f6900f0da85856a664c800b503585c9d5257a278e105bf0a30ec477a7"
+    },
+    {
+      "archivo": "marmol_verde_prato_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "ed82ba5efe3a9e519e5c9b26ce2b18de245250e77a4b20e24498bb3a856c3389"
+    },
+    {
+      "archivo": "marmol_verde_prato_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "b346f90b649f2cd9a65df5bbd438e18fa596a0eee4b867b003cc905fc0bcb7c9"
+    },
+    {
+      "archivo": "marmol_verde_prato_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "0689de578aef2219f3bba6e836049219ddb29140d4544c90758eaef24a115b4f"
+    },
+    {
+      "archivo": "marmol_rosa_maremma_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "fb582f3d2954b8c6d297281c5945a91010d08533f479b03acf34acbdfe424ecc"
+    },
+    {
+      "archivo": "marmol_rosa_maremma_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "50efe04caf6fa63a99212e9b6bca39d8fbb8b0e00c1d99c9453fb64049ebb455"
+    },
+    {
+      "archivo": "marmol_rosa_maremma_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "28ffe5beade8c7b2e3b4ca5c3a20f73fff421a372edd32554e253e1593fc257f"
+    },
+    {
+      "archivo": "marmol_rojo_verona_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "a77c82e06ebc38d2badeeaa97461c9517ebd722272439f3f9c92f149c79349e9"
+    },
+    {
+      "archivo": "marmol_rojo_verona_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "f4fa8efebe9465fc7a88ee54e362875dd4e1b474f29bf3fc7c15ba0ede23b17d"
+    },
+    {
+      "archivo": "marmol_rojo_verona_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "10e496ae489dd176102f4b4f1f6e5d43a008a0a4573b45201c2c0e64b2702213"
+    },
+    {
+      "archivo": "piedra_serena_lisa_a.png",
+      "resolucion": [
+        256,
+        256
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "b022c6c05bebe756c4cd15137f706d3f5b00ef55109b4eebc600351ac64eaa3d"
+    },
+    {
+      "archivo": "piedra_serena_lisa_b.png",
+      "resolucion": [
+        256,
+        256
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "17a53b88c201bafa00086a82e579a1a601b48e96d6b1eff57bcb40da8ccc4188"
+    },
+    {
+      "archivo": "piedra_serena_lisa_c.png",
+      "resolucion": [
+        256,
+        256
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "11340b304e70c3c96592874b27a006a93dcd69844109445d28fa383343965d6e"
+    },
+    {
+      "archivo": "piedra_clara_labrada_a.png",
+      "resolucion": [
+        256,
+        256
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "ef097d2c6138c6c1cfdd3b92723468f2e976206ff617130ae47672fed6546ad4"
+    },
+    {
+      "archivo": "piedra_clara_labrada_b.png",
+      "resolucion": [
+        256,
+        256
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "17fa6fb9826755382066823f71ef4ea81741e8e71c8f3f9c3f72cf5c90e5cab7"
+    },
+    {
+      "archivo": "piedra_clara_labrada_c.png",
+      "resolucion": [
+        256,
+        256
+      ],
+      "max_diferencia_borde": 0,
+      "sha256": "a46a962d1209453e4275e4eaa5940d2cfd1d04cd99592066771f9b3a58db58cc"
+    }
+  ]
+}

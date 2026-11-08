@@ -1,0 +1,335 @@
+{
+  "lote": "L15",
+  "archivos": [
+    {
+      "archivo": "sacos_arpillera_a.png",
+      "sha256": "bac509b892feab14a9fab9de1b5b27e78644c9d4e8b8b6e7abcc26ec96fe5c4d",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "sacos_arpillera_b.png",
+      "sha256": "feb182dfa97a63ad3be7e16e942a7177d449ce6169e35d70e53c8f25d7f1d0a2",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "sacos_arpillera_c.png",
+      "sha256": "0a20b5a0cb34f0ad595fa5f74c40a8ba44b79766a315b26b966411cf4096188e",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "lena_apilada_a.png",
+      "sha256": "757d505d17c8795d99c0c93e6b2f43ab0cb157b04ff90ba28301d7437b52587a",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "lena_apilada_b.png",
+      "sha256": "6395fe06d733355fcc76c34136e68c0051fdcff9a1ad530be052e0ea7a37348f",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "lena_apilada_c.png",
+      "sha256": "f7f4bd6423fe10642ae2c15794a52fedf383a08db66aeddafc1ddcb810c38599",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "heno_paja_a.png",
+      "sha256": "2874ac9d907eeb5cf3deb38f79dc6deb71c1acdb38dc40b22aa7a654a1a2b6d9",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "heno_paja_b.png",
+      "sha256": "16a3b36748340997c5f456b6f30e84ee7e5278c0aed5f119ad528ce6cd837de0",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "heno_paja_c.png",
+      "sha256": "c4b553f00fc1347f36da3e72fd064ec8279c8f05c62c41b9083015d43d3aa72f",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "mineral_hierro_a.png",
+      "sha256": "d5c87d11276a1b7d1a1c1eefab8987f43bc86091a0c34c1854b9f02f0faef440",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "mineral_hierro_b.png",
+      "sha256": "860097c917b336cb91d1394ab1afae0172358027775e51679d26640fa0c90af9",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "mineral_hierro_c.png",
+      "sha256": "cf8db0cfcfa01c9106d36febd7dead0ba5162daec0da6819589a716c2e080836",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "escoria_carbon_a.png",
+      "sha256": "ff90720a7aa3b9abb19ed5318d520521290a446209c03b02cb9b4e3a93da7ba5",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "escoria_carbon_b.png",
+      "sha256": "82758200c5a7d524abf715187f73dd808f907b2448bda6943d49f8abf6c54b81",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "escoria_carbon_c.png",
+      "sha256": "06b3d7d64f6ef7bc26dd098d498892bb0fb54a9b29f9c199d69548accd763480",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "cantera_marmol_a.png",
+      "sha256": "8795f37f280eed9463263a3d08776b02fb20ad8f6ae53e8229e084331e5b51aa",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "cantera_marmol_b.png",
+      "sha256": "03d2787a614037e76c6e71d31e0826d844dfb65f41b3d0ce4e57a9b32b1c51fc",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "cantera_marmol_c.png",
+      "sha256": "64aa0032f39acb410c80e48d271355132095afecb6d426f5d3259c3dec6f7981",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "duelas_tonel_a.png",
+      "sha256": "a7340407111eafd4c9ba830f3c96d99f2a4500b28aa3a5305187e9d663529a00",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "duelas_tonel_b.png",
+      "sha256": "aa2d01eb1f5f3fc8bc6bd1c521a8dde59f943b3048a2ef955ce8fd8387e1cc69",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "duelas_tonel_c.png",
+      "sha256": "529a77e541c1fc08d6b8625c6ff845ecfa494102609a1ea6d0afd5f3e5535705",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "ceramica_apilada_a.png",
+      "sha256": "91469bb401d3d2a876197e09afb8f2264e7349ec2fc63ee599cddd5ca134128c",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "ceramica_apilada_b.png",
+      "sha256": "ffa46c4e09c20416389958529a9bb79cb10513f19b6c495c896dfde62f610be0",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "ceramica_apilada_c.png",
+      "sha256": "e1f533af0fa72acdf18082d26154745cc3191d5785800822842a5b0c5a98cfc8",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "redes_pesca_a.png",
+      "sha256": "00b6584ecc4b26ac5bc5857ee1f991f577b67cb720c8a8cf81f382169938c58b",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "redes_pesca_b.png",
+      "sha256": "616ec7bf00f08a040e8cabf2ea3bf7738b30dbf985a2296c27582a635c50d396",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "redes_pesca_c.png",
+      "sha256": "a9ebfef65b79736b0e19c843654e17eb4d59474277d262aaf34ab7668c0b7d7b",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "telas_seda_a.png",
+      "sha256": "b6705986283a125cf0cdbae66d55da9858b9222e690977344c9aae61ceac5fc7",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "telas_seda_b.png",
+      "sha256": "7895f3ff09aa48a6b1984d2268cc3c1f94d31f759405c28482974a8db7bcde77",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "telas_seda_c.png",
+      "sha256": "54abfa5ed4d6117a58bf353f06e3c9c44c9638c3155f5efe60172c5755c34bc9",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "max_diff_borde": -1
+    },
+    {
+      "archivo": "cuero_curtido_a.png",
+      "sha256": "5c6adb72363b326791710bf8d356651730c1e60184c33dc7a3dc4f3019361060",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "cuero_curtido_b.png",
+      "sha256": "60eb589da23230d72f4f41b87065023315b28bd32cd3e8ba7a547f853b40f607",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    },
+    {
+      "archivo": "cuero_curtido_c.png",
+      "sha256": "1ef388f02c8e6a40b5f4bf6eb8c205b112c7adda68a3bc317a50a0dea9c3536a",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "max_diff_borde": 0
+    }
+  ]
+}

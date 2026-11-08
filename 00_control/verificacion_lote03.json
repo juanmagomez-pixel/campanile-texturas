@@ -1,0 +1,194 @@
+{
+  "lote": "L03",
+  "archivos": [
+    {
+      "archivo": "piedra_serena_sillares_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "8370cb2a0fc5ebd8694a5250c9196ac6053d0796cb8152fd30f1f13b90eed18c"
+    },
+    {
+      "archivo": "piedra_serena_sillares_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "7cb36bf7cd631666540ec370b8a8b36bf0985e14e9b153b81473023520dcbbc8"
+    },
+    {
+      "archivo": "piedra_serena_sillares_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "b66097d0c0f313e2fefc8e43273e8f393c7fc4b77414a1ae528970f9636d7735"
+    },
+    {
+      "archivo": "almohadillado_rustico_a.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "5e24d49169b23740a1189ef58afe123b74af0438d8f92a9eeabc61ea441ef541"
+    },
+    {
+      "archivo": "almohadillado_rustico_b.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "003c9f36d4f594d0bac59b1ca27cf1350ab08f107e52c5a398a1ed92e10df0e0"
+    },
+    {
+      "archivo": "almohadillado_rustico_c.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "434864653f6d530cc602860f429fa1ae53b21907ce23484f8b7ab931143c4230"
+    },
+    {
+      "archivo": "travertino_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "862c6084afeb1922976ddeb8a1c17d7c300d30b8791cfcd6d1ddd085854c7dbb"
+    },
+    {
+      "archivo": "travertino_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "35312ddeec3e4697a3a15bb650363e5bbab0586e6c8cf351c5c3d3239d38a36c"
+    },
+    {
+      "archivo": "travertino_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "7555ede75d25ab963d5741cf6d5d3c8aa995210e34fc4741c680204947ce7a3f"
+    },
+    {
+      "archivo": "marmol_blanco_verde_a.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "8812ac30ceae4b9d92d8a7be841cd1b142a58b1f1e5efe8af0ef3703bb67253d"
+    },
+    {
+      "archivo": "marmol_blanco_verde_b.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "53984da679fae5ffd942216c2abf7108f31571e3ee646c99559b1e5cca880d5e"
+    },
+    {
+      "archivo": "marmol_blanco_verde_c.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "e9245d0412f643cf0680bd89688ca1665d0be344f2c3ebba97fd7c36a91075b5"
+    },
+    {
+      "archivo": "piedra_franjas_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "f3ac634023ae35348dd93833eef3d2e2232c183359d30544c8193a24c8b6efc3"
+    },
+    {
+      "archivo": "piedra_franjas_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "89d7eefd814c49066c7f11c1787a32e8dacff869d1489d1cebdc982dd60388da"
+    },
+    {
+      "archivo": "piedra_franjas_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "78eeec6032ee7040c1c8f47db53e7ac560d73d2e864f5a333c107773cd1bda01"
+    },
+    {
+      "archivo": "toba_dorada_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "ccd03c27790f178a88b030ed2c3eb2febf2400114d17f210e764824bd21bcb3f"
+    },
+    {
+      "archivo": "toba_dorada_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "9430bd198130a0d09a75331c2ce55042f08fdfdc7ca7345882e750362aab69cc"
+    },
+    {
+      "archivo": "toba_dorada_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "ff79677e6dc16d4b29d6129fc18b3aa9c890fed5de04f9f0991c3d5b3bdbd866"
+    },
+    {
+      "archivo": "piedra_istria_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "8edec80e80c9da7b223eb3cf50c14566714ad783e6e99c99a48d6eba916080f7"
+    },
+    {
+      "archivo": "piedra_istria_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "3cec12b9ca62cede69b7d007c360cbed5075fee3d4fe787f165a62f48d80c06a"
+    },
+    {
+      "archivo": "piedra_istria_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "diferencia_borde_max": 0,
+      "sha256": "299f5f97c486aa64efde5eb87b09cae66d0a9037efb7b484e1f51ac3d7fb2b86"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "resolucion": "512x512",
+  "lote": "L01",
+  "imagenes": [
+    {
+      "archivo": "teja_arabe_roja_a.png",
+      "sha256": "908cc807d4d2e1abad11d39faddd4c408eb2a7365b1613cd18c9d23e832ec94c",
+      "max_diff_bordes": 0,
+      "fuente": "individual"
+    },
+    {
+      "archivo": "teja_arabe_roja_b.png",
+      "sha256": "ec42754de516d4b6b7a24d98a5407ab118735d2e508d69a976900a439f67b100",
+      "max_diff_bordes": 0,
+      "fuente": "individual"
+    },
+    {
+      "archivo": "teja_arabe_roja_c.png",
+      "sha256": "7b97431ba5d1f65a7bbf801a654b22b5dcc78e385d5ba0ae14bd84808352e5e5",
+      "max_diff_bordes": 0,
+      "fuente": "individual"
+    },
+    {
+      "archivo": "teja_oscura_vieja_a.png",
+      "sha256": "0a9d1736fc5eee0129ad1a92b3a066645c8d1312968992c5c40ee946e6b7adda",
+      "max_diff_bordes": 0,
+      "fuente": "individual"
+    },
+    {
+      "archivo": "teja_oscura_vieja_b.png",
+      "sha256": "cc99cd875cea561a1314783f929b1c6d851034b472efe4f9bf4ef27c0fb92c3b",
+      "max_diff_bordes": 0,
+      "fuente": "individual"
+    },
+    {
+      "archivo": "teja_oscura_vieja_c.png",
+      "sha256": "e085d8c3019d7d49ceff1477fc4c84663cd4f9efaa9c440b2e664399896b957f",
+      "max_diff_bordes": 0,
+      "fuente": "individual"
+    },
+    {
+      "archivo": "pizarra_liguria_a.png",
+      "sha256": "13ae33bdc4bc1bedd086c1b48cd7bc4c9684d451cab10c1c8d89d5b9fa18dc12",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "pizarra_liguria_b.png",
+      "sha256": "7875cda983fa0147fd8f9fc9958a292e8cc04475ac2b4e65b5a8a10a2b079018",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "pizarra_liguria_c.png",
+      "sha256": "6d1b09059a1be5feb5296f488e3d1452ef52feed13e6dd27e230e02376693cbe",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "paja_techumbre_a.png",
+      "sha256": "d75dc28afbedcda65a2432c2eeca17c268cc3d5995cb7174b67df13c5d27444a",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "paja_techumbre_b.png",
+      "sha256": "fc44e02c6480f1da46fcba495d84804c069b3129c13b43c367a762b76df30480",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "paja_techumbre_c.png",
+      "sha256": "b3ecf015e93d57cfbb619b9738840ce3c81a487acf0c250ea5b9ccfb83491499",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "plomo_cupula_a.png",
+      "sha256": "8116c14729d4915891c431f6353a7efeb7c8601d5748958904c7f5ec07ee85aa",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "plomo_cupula_b.png",
+      "sha256": "e9a3eb117599547d952f781f5f5113e22e5312f194e813f407f3d463139cb20e",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    },
+    {
+      "archivo": "plomo_cupula_c.png",
+      "sha256": "8676825f5de7d4c976b21416ff3b3c51678d0ebdef582dafe4839ae935ae3d62",
+      "max_diff_bordes": 0,
+      "fuente": "recorte_atlas_upsample"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "lote": "L09",
+  "archivos": [
+    {
+      "archivo": "ladrillo_revoque_rojo_venecia_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "68343743701a101b54cf908980239774be58225e4fa03f1a38070b3bce51a716",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "ladrillo_revoque_rojo_venecia_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "9292c0b1623c59850fb79fbbf3fdb9a899b6c3af33e18886c9d614717be9d160",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "ladrillo_revoque_rojo_venecia_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "1491f79a7094120dfa4edc9b010787c70c6b7f40c5fe69d7c541ceb721c430ae",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_clara_venecia_a.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "a1ea9b068523d7c0b6e127a65221e187b37aebb699056e55204ec2ef6c49b220",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_clara_venecia_b.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "85ae10394d9323e2adbe6c16dd8837af60cd5d79155a2a694160fc469e887c1a",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_clara_venecia_c.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "a5a4944d31f71ac21d874e3531dc9f75638ea389ac22428d91a5d092720169f6",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "masegni_traquita_venecia_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "00f59cc8f7b9dd487880f8526b9dbca916dbbd08fc485f907073b0e7a55ad83a",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "masegni_traquita_venecia_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "cc42c6481807dc78bc2bd6f241e743e3c0666d70b15ddbd8b5a7707803920edf",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "masegni_traquita_venecia_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "3aafb740a6f53cb3690c30a7cfd32666c3f40fb89a16fde3cd566a9c4785098d",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "marmol_rojo_istria_venecia_a.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "d961e49dfde5a8d3dfc06b4573cc37f50ed10f9e6a5815617d965e4f013aa6a4",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "marmol_rojo_istria_venecia_b.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "9e847242548b42d2cfda7e974397f4fa72e38b9a7d82788a2e71b9862511517e",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "marmol_rojo_istria_venecia_c.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "9a22fc5bf3ab4d0ed19fa719fcab81b8b04acab861613fae381e49c8f5cf9ef2",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "madera_pilotes_venecia_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "363a56142b2c607a07beffea11af23830de378554e868439291219883b4f77a1",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "madera_pilotes_venecia_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "3008b0f16c299835afb7095bcb1099970055c67050b41eb08074aa25f85054bc",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "madera_pilotes_venecia_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "1558bbdb432081e7a1d2ae8bcba09737984a1f224243b0bab9a9138d0e86bc9f",
+      "max_diferencia_borde": 0
+    }
+  ]
+}

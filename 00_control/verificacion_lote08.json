@@ -1,0 +1,113 @@
+{
+  "lote": "L08",
+  "archivos": [
+    {
+      "archivo": "pietraforte_florencia_a.png",
+      "sha256": "d2864ff0e459805c03c942fe8a6c300cf463c06199f2de5ee74693f3d65c1ab0",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "pietraforte_florencia_b.png",
+      "sha256": "80ee07c05094d367c276c5950b08a68f9333e56076fe20778ee83ca308b28bc8",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "pietraforte_florencia_c.png",
+      "sha256": "c6b39f160041013e38f3ec5356bd2e314a9741e12ac9566d0f523be458a18f96",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_ocre_crema_florencia_a.png",
+      "sha256": "0c8327709945a9218ccd7f383c807ca1fcf9209bd75fe56144021c35e8c4d213",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_ocre_crema_florencia_b.png",
+      "sha256": "653fe789af071889f7030997bc3656d0122128db83c5f0ce50c657a1e57f1581",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_ocre_crema_florencia_c.png",
+      "sha256": "ebe9faa98af24bee42d1da32f6893cd5dbd0b83fc5de681461b5efc57e03bbfb",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_caballete_florencia_a.png",
+      "sha256": "ebbc810078584fb26721d02222c80c8b03dcc1e7f0e23e62a67269316d23fb7b",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_caballete_florencia_b.png",
+      "sha256": "d81b2da47839c117ad993853190c6a82232353460f2a9f2a9cd7b07237d447eb",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_caballete_florencia_c.png",
+      "sha256": "802e329f1a4863034cefd061d91de30edad07b80c43e24229e7b1894871fcf70",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "empedrado_lastrone_florencia_a.png",
+      "sha256": "ac7455912371d73e2d243668dcaf50fbdb786a23f3f61180d429614fb08372fd",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "empedrado_lastrone_florencia_b.png",
+      "sha256": "3116522a1265e6728cd4999adbf357cc0c2cbe1e55dbef9b5a1d5a375dccce96",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "empedrado_lastrone_florencia_c.png",
+      "sha256": "fd23f87b0b4c90f891ee54104761437fb6eeda65da8656adb4a9ab9b200d0be3",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    }
+  ]
+}

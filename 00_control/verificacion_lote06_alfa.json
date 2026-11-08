@@ -1,0 +1,125 @@
+{
+  "lote": "L06_alfa",
+  "imagenes": [
+    {
+      "archivo": "ramillete_olivo_a.png",
+      "sha256": "65b603ca8815b4dfa9e485ab4cbd0b89cb4b685d8e17f560f032d79748c6a987",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.6193466186523438
+    },
+    {
+      "archivo": "ramillete_olivo_b.png",
+      "sha256": "d5a709127589c112cf4276b6e2914a4a0c795e8aa7a370f2fcb124ac62909951",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.6474075317382812
+    },
+    {
+      "archivo": "ramillete_olivo_c.png",
+      "sha256": "27bcb7f6f055b19ac0623d39c13eabbacf1529640120b24cbde0232e7be0aeec",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.6732330322265625
+    },
+    {
+      "archivo": "ramillete_encina_a.png",
+      "sha256": "47aa7c5eb36a5f3f4f4eaa4477e80581baa3cff77313cada04fc74c7cf5509ee",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.7206306457519531
+    },
+    {
+      "archivo": "ramillete_encina_b.png",
+      "sha256": "d4bd7b2a0c2333f5205a80f67c8688fecb8fd747dc025f82d85364f76f526643",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.7292633056640625
+    },
+    {
+      "archivo": "ramillete_encina_c.png",
+      "sha256": "62caffe08b3f27e85fbbea7764fff35c4baa0ba81bd779b563989b8ed6770d41",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.7620010375976562
+    },
+    {
+      "archivo": "ramillete_cipres_a.png",
+      "sha256": "e6d503d5891fa1e531a3557148232ead9ec4897d9c9eff31a2d7ac61afac921d",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.7666549682617188
+    },
+    {
+      "archivo": "ramillete_cipres_b.png",
+      "sha256": "40e5b6efa484c53e6b9ddb485d8b450c3dbd50fb496538154fdbf1e8ea6abbff",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.7744674682617188
+    },
+    {
+      "archivo": "ramillete_cipres_c.png",
+      "sha256": "11a093f35cee52be0a405cf553ed15bd6557a2165c12966938bc4f38db1ab2fc",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.7768630981445312
+    },
+    {
+      "archivo": "corte_tronco_a.png",
+      "sha256": "457236dd3e2a26760f613f7593eef9d12d02b7d7bff389279a34319b686cbe1a",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.4170417785644531
+    },
+    {
+      "archivo": "corte_tronco_b.png",
+      "sha256": "bda1f80bde9eff6ad6e4fd3a1efaa55305c8e7c955b6a4205bd003d1083a0321",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.4329795837402344
+    },
+    {
+      "archivo": "corte_tronco_c.png",
+      "sha256": "7ae491eaaa4d5cae8afbb58a79f957009d74613f04b43258b3189a88baae1065",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "alpha_zero": 0.448944091796875
+    }
+  ]
+}

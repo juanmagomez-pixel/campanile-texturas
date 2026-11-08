@@ -1,0 +1,114 @@
+{
+  "lote": "L06",
+  "estado": "parcial 12/24",
+  "imagenes": [
+    {
+      "archivo": "vigas_viejas_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "d2d7c5c0ea3ea4905f54e8ead035ed4609067964e2fa5b504db9b66bf839014a",
+      "borde_max": 0
+    },
+    {
+      "archivo": "vigas_viejas_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "7c41881a10a548fd9e2239f932997798975ce19bee5a9c81cc18cb8674cc4c12",
+      "borde_max": 0
+    },
+    {
+      "archivo": "vigas_viejas_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "6684fdd70f0514d67e4f984ea1680021f29c953e0b19f7b30a711f75895876ee",
+      "borde_max": 0
+    },
+    {
+      "archivo": "tablas_puertas_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "c141124cf44daf7980f9bbda01b04ec1f974080632d7b203ab739e2abb2f674d",
+      "borde_max": 0
+    },
+    {
+      "archivo": "tablas_puertas_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "5b8f3a581fa66a621a98ce9aee32e0a7a05d710df446a951d9c3057483c62e9d",
+      "borde_max": 0
+    },
+    {
+      "archivo": "tablas_puertas_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "990eaaa68419a28d5d0416de37c18dac5d1c96c85ea9c126a1c7fb6a6feb7200",
+      "borde_max": 0
+    },
+    {
+      "archivo": "corteza_olivo_encina_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "62d7869c36e7f4044945b03afb3930eb6575a4df1c23dd35f126e3a021a52ce5",
+      "borde_max": 0
+    },
+    {
+      "archivo": "corteza_olivo_encina_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "efca719218687720e63dc834d79cc53eb8c2891c254cb5a430110d8c08eb0a8e",
+      "borde_max": 0
+    },
+    {
+      "archivo": "corteza_olivo_encina_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "8076473f3adb4943ca8d0e6ba3070fba59da10027ac5da94af42e9563c7eb4f8",
+      "borde_max": 0
+    },
+    {
+      "archivo": "corteza_cipres_pino_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "7ebd2fcecee2160a1c03b47f81bebc583c16f6497741d57bbbdc3eddaf89b231",
+      "borde_max": 0
+    },
+    {
+      "archivo": "corteza_cipres_pino_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "c3a92c8404362660ba27dd36165a1fac4a333b56a660d755fd24fa8ea0b0f525",
+      "borde_max": 0
+    },
+    {
+      "archivo": "corteza_cipres_pino_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "cb514a6f80f73daf9fbefd6b4ad0d069459dec8077dd03ca4d5d64f9f2012381",
+      "borde_max": 0
+    }
+  ]
+}

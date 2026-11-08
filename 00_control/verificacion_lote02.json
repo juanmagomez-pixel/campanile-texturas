@@ -1,0 +1,114 @@
+{
+  "lote": "L02",
+  "tipo": "prototipos procedimentales",
+  "imagenes": [
+    {
+      "archivo": "enlucido_claro_a.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "93425601fa164b3dff3c5c6fcef11a8f34154fb2b0b913d4d88ff5c707f870a9"
+    },
+    {
+      "archivo": "enlucido_claro_b.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "7cf9b64bb090e2f406f7f44bafb11001d60532a38cb018289cd1d178cf1856ce"
+    },
+    {
+      "archivo": "enlucido_claro_c.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "aa0df26f7b4f84a308075fc44c88d399487d80dea3e6d1440bebdde9fedf13e4"
+    },
+    {
+      "archivo": "enlucido_desconchado_a.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "2566fc62425b86f63e34c1ca178981943de73d725a4277f47e3c4fa4091561d4"
+    },
+    {
+      "archivo": "enlucido_desconchado_b.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "a893f8c2968572e8dcb9e141310b22c27bae75fc3a88bf48978dbddeb35e08d9"
+    },
+    {
+      "archivo": "enlucido_desconchado_c.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "cbec63caf3bdba1291291e9a1631dba79d6477fa3210ee31078238386d7ce5ee"
+    },
+    {
+      "archivo": "adobe_a.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "fd9fa038a2eb2fa290e60365a508e8dc900171af7ea8fede13a83d0b1af8b016"
+    },
+    {
+      "archivo": "adobe_b.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "3da0645822c2bd2113b7747829656923b637ca742a51e3679892349ac773cc60"
+    },
+    {
+      "archivo": "adobe_c.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "d4260b2a7b8d0ef8402c7a58a2a0e1519d2ac1af78a3d33e319ef9d45d458d28"
+    },
+    {
+      "archivo": "ladrillo_toscano_a.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "a056efff8f47ffa1babed10bcd44066c73d2d6594220c91987f86652f1e7d76b"
+    },
+    {
+      "archivo": "ladrillo_toscano_b.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "5d30b0f8df821c4c6d48285539868264a2d68ea1c97514bbf9cfe102e165c743"
+    },
+    {
+      "archivo": "ladrillo_toscano_c.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "12b94a7310885a0b95647cab5745f921dfacee7e6a41dcad00dee2fc60f72ce4"
+    },
+    {
+      "archivo": "ladrillo_lombardo_a.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "486e5cb4f9cf4c5f6b5bd3195a3c71e7577ca579a2a3748f137df870c731fa96"
+    },
+    {
+      "archivo": "ladrillo_lombardo_b.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "68dd16edd24d152ce3149a41af1715a734f75df0482a8cd6d90c873f02d9b422"
+    },
+    {
+      "archivo": "ladrillo_lombardo_c.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "5d880dee60b293c1f743734f00903976c51db4157dba902eb9e6a459fb6f75d1"
+    },
+    {
+      "archivo": "mamposteria_zocalo_a.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "6a742f0e6f8881caade76b9eba0618450e0cf8a4488781158f939ccb1718201b"
+    },
+    {
+      "archivo": "mamposteria_zocalo_b.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "a41369ef6a50dddfd29e7816974c12f013045f51e3245991f39f3a12b54e00b7"
+    },
+    {
+      "archivo": "mamposteria_zocalo_c.png",
+      "resolucion": "512x512",
+      "diferencia_borde_max": 0,
+      "sha256": "2758e682044344b662b4d0e155139ec4481bb34468e1aaf19e9333fc4e7fafbe"
+    }
+  ]
+}

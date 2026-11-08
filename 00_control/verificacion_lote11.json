@@ -1,0 +1,113 @@
+{
+  "lote": "L11",
+  "archivos": [
+    {
+      "archivo": "fachada_pintada_genova_a.png",
+      "sha256": "5f363e5ac90ee6e2a08b0edb397f81e9d07f12751157b213c0c57041b79e808e",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "fachada_pintada_genova_b.png",
+      "sha256": "cfbf988652462f964d9bf2286bb0803842f454ed9977acb753880bc1c9a795b3",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "fachada_pintada_genova_c.png",
+      "sha256": "46077b3a683019abdbe6e3ffb587f6d164f7fe6d4793d9ea5f4d0eff490e8558",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "fachada_rosa_genova_a.png",
+      "sha256": "9133fe806c6ce9efef678a539cc0cdfb0e853ae6844f496a7040e4e119948c5b",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "fachada_rosa_genova_b.png",
+      "sha256": "9cb1f314577224ea0d5f56e0393f922da4f4bc446b0c2c71bc15e41fb10cdc81",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "fachada_rosa_genova_c.png",
+      "sha256": "2f0f4830a196189e28ee29c1535d3a00dc72a2ae75d57865624cf8c0817590c7",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "persianas_verdes_genova_a.png",
+      "sha256": "4bf04c21828ced857056ac92af27a13c695dfae77a88afe8347c3b6bccbf4300",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "persianas_verdes_genova_b.png",
+      "sha256": "4286beedd6fcfc6524a1124acf61e7fbdaad95c5fce6f79ed3c51f25af7bfa45",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "persianas_verdes_genova_c.png",
+      "sha256": "6a70189302271069f2b447d801ef5903bf1d12d4d6590be7b7ca377b219e26dd",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "pavimento_ladrillo_pizarra_genova_a.png",
+      "sha256": "ae9e9b6d250f788461773d98bf6444e131be330c517cf049e596f53375fd29fa",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "pavimento_ladrillo_pizarra_genova_b.png",
+      "sha256": "e3fd7d635f384c043daa1eae4aa6716871c1801c121870b3d2c40f939eb15774",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "pavimento_ladrillo_pizarra_genova_c.png",
+      "sha256": "06397dd05b1f95d5f25baa0cd96e8ec6c740608526cd384ce4650a4ac9125212",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    }
+  ]
+}

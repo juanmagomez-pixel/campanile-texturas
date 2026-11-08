@@ -1,0 +1,113 @@
+{
+  "lote": "L10",
+  "archivos": [
+    {
+      "archivo": "ceppo_lombardo_milan_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "a8474cc6f203d5ccae149ca988631b21402f2703a451986be551813006eb301a",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "ceppo_lombardo_milan_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "061f17d20523d47106b66ab760a8680a0f429a3e9f279d814d85d785e09c1028",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "ceppo_lombardo_milan_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "97f5bc70416ca3f88a3142fd79f832fd88aa318a6aef146009fe109e63b6ea2e",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_lombardo_milan_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "c74a89107e16d4642076be1d5c49616b311c4b048ada82af35f5ba339314bc70",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_lombardo_milan_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "3afc54d1861c152bb200af5e1f3213543ae6434cbc4e7322e48479e01b9450fd",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "revoque_lombardo_milan_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "d84921420a8b37bf0fd32b3888ed7af795cf8f522c56de5441f04fb66cc5202e",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_lombarda_oscura_milan_a.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "12691008d948a0abfede91bec8b4a2165130ea08bc5c010513639bb71604c390",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_lombarda_oscura_milan_b.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "c46a943ef55f00d4dd42592c4fe10d65de2ed2e93ecde3068885bd9053f846bc",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "teja_lombarda_oscura_milan_c.png",
+      "resolucion": [
+        1024,
+        1024
+      ],
+      "sha256": "21fc5b8a9a4a1bcef1e01588f72ab9d5c3ea6b66a8e8f08f3eaf97f09b23c8ab",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "rizada_cantos_rodados_milan_a.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "6ec542c764c859dfe0fc6b5fc883bbeb9fa1fc67fbec4c21655fa3115584f4b9",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "rizada_cantos_rodados_milan_b.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "27f5edf05062b404dbbb891e53b69e9405d69d46b5916730f43ea500b3686a42",
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "rizada_cantos_rodados_milan_c.png",
+      "resolucion": [
+        512,
+        512
+      ],
+      "sha256": "046c6b8a618a25b86c88cdd176b482a71bc9aebc771e1f204b7a40d109dff307",
+      "max_diferencia_borde": 0
+    }
+  ]
+}

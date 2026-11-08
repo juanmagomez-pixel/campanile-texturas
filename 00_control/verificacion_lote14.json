@@ -1,0 +1,275 @@
+{
+  "lote": "L14",
+  "archivos": [
+    {
+      "archivo": "porton_claveteado_a.png",
+      "sha256": "6e5cb7d7386d9e139f026d5f19dc8e521dd6b31b0cc67262d2133d081b9a6e75",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "porton_claveteado_b.png",
+      "sha256": "1e4939d9a4d5ec520da59256139212320b9a89a667586faa5a3aed182f8e07b0",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "porton_claveteado_c.png",
+      "sha256": "d846b2862cd3936a677dce79654f23967b570a2f09017265eeafc88fc41b87f4",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "puerta_humilde_a.png",
+      "sha256": "3d4ba17ed93af7f959bea49dc3cd3ad3e66b6295bfbe34b40909b69d19783e6c",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "puerta_humilde_b.png",
+      "sha256": "b9d49fd07eb157e723f9722466b2dc50c565c8dee28a3d784d6947557575a175",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "puerta_humilde_c.png",
+      "sha256": "e63bc0ca0d1e13a2d4d94ff14ec0add848ef7305cd7623f045f9e2ae43348558",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "contraventanas_tablas_a.png",
+      "sha256": "2f95748172314d1d62f7af0c354db2e9fc9ff4cee1340e951ed7bdccb1856325",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "contraventanas_tablas_b.png",
+      "sha256": "523a4e16cb58da82de1a00ed5ed83bbfa6e16e7c16c9d1ade68d079b61f817b6",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "contraventanas_tablas_c.png",
+      "sha256": "77401b22e6fb45447ea0279acde91dceb9e8b0f393cc3363d1e0b23bf5e2e8d5",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "contraventanas_verdes_a.png",
+      "sha256": "0ac5989b6ffc724ecaa948a37c1db94f3fb6e6414458b17bcefe837c214e40f6",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "contraventanas_verdes_b.png",
+      "sha256": "2aaadb1bc5840d322128f8d67436365418abd1fc528a5f4f91af8380e6df8b8a",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "contraventanas_verdes_c.png",
+      "sha256": "4ff83eb08936e8a190f503a193a55cc30ccc7047ae3c59e102489fe4197190cf",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "reja_hierro_a.png",
+      "sha256": "986a3a9be4b366cdf4e0ccd0159cc10cdb8f360a86d111abd0a2296af5eb353a",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "reja_hierro_b.png",
+      "sha256": "8040e117e31ecf0f15c9a9869e6d3955fd014297407d5768b0552eedefd59990",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "reja_hierro_c.png",
+      "sha256": "20cd6fc0cfde5f4c614db48481fe7ebc0c192b3950b78d7036c17c6111e36d5d",
+      "resolucion": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "diferencia_borde": -1
+    },
+    {
+      "archivo": "hierro_oxidado_a.png",
+      "sha256": "decfa7ce8ae9a9347306f8dc4ff12f484c5fe807846ca3d0c32c63c9f910b181",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "hierro_oxidado_b.png",
+      "sha256": "8316695c0826eec4fd0ef5a549d589b78791271264dcf9e52c41da696dad3bde",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "hierro_oxidado_c.png",
+      "sha256": "7a7b0be41956f7a7826a3f0515fe06a4c5931e9a4ab6c096dee3256d61a1de70",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "musgo_liquen_teja_a.png",
+      "sha256": "86f4e4d47c615d2645185477ce811fad0adfcd802f1b663173a78ceac1f42e80",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "musgo_liquen_teja_b.png",
+      "sha256": "a869d1329fac17ff1214112c3c9954896f404dd5a5f02fc4fc37c4d9e1ff916f",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "musgo_liquen_teja_c.png",
+      "sha256": "0e3a7ee18bf30b11faea4994fcd793a09a897c781047d52491b7a745a4e04363",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "suciedad_lluvia_a.png",
+      "sha256": "072b0223dc7a19a955c238f4a795df6fd751e0718eaba38ddb87b9773612bfb5",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "suciedad_lluvia_b.png",
+      "sha256": "c302f02ee8a6a609ea9714a0447e19387197fdf91a9990615a25d9157a98e64b",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "suciedad_lluvia_c.png",
+      "sha256": "cbbba03107a5f1c4a675aee8559d3396da9cfd464ad835a20fab5cac80a7fae8",
+      "resolucion": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "humedad_base_a.png",
+      "sha256": "84268fd72e8394cf7bcfc47fbc115575bc4ee40466d1739bbc0badb9e9df1707",
+      "resolucion": [
+        512,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "humedad_base_b.png",
+      "sha256": "7d48de81ef93bae485b888e5457cd7a0619d5cb676631945e4292e3768a7c361",
+      "resolucion": [
+        512,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    },
+    {
+      "archivo": "humedad_base_c.png",
+      "sha256": "c6cb2744a620c2fec23cd562debcca44314f4db72abbc090d92126b836bd1e0a",
+      "resolucion": [
+        512,
+        256
+      ],
+      "mode": "RGB",
+      "diferencia_borde": 0
+    }
+  ]
+}

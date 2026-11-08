@@ -1,0 +1,167 @@
+{
+  "lote": "L16",
+  "archivos": [
+    {
+      "archivo": "madera_andamio_a.png",
+      "sha256": "e64ef8daf45f79cca9b96f94fdd25b1d2bf959ba79f2f16bd35e987b097c9dbf",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "madera_andamio_b.png",
+      "sha256": "a84fa6e17631e523f445b939e2b9be906044bab9dd39e4242e7ec7031e99baa0",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "madera_andamio_c.png",
+      "sha256": "4777008280e5bfd1340de004566efb5f66ecf6db4c5b75a7dd89b96020fc7a9c",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "piedra_bruto_a.png",
+      "sha256": "6409ec652e30924ba061298365f04c115d77afbb5a666e911f9a0c8321dc7efd",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "piedra_bruto_b.png",
+      "sha256": "4a073d0073d79f6ee9e7d5d48f335614350cbcde363ec662146a01bd3cca1e72",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "piedra_bruto_c.png",
+      "sha256": "6f469cfadff57a9a318d8a41797cec0c0ae0fd955452d022b49d45c9a50bc0c4",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "cal_mortero_a.png",
+      "sha256": "738d63207766378788ca49fb2baeae919ea335b9aaeada8ace37ad4c3248c473",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "cal_mortero_b.png",
+      "sha256": "f700ccc745259251c54de0fad5722ade222be9e9f2859394deaca3baabc63132",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "cal_mortero_c.png",
+      "sha256": "5f23b1c0a338b682f5098eae4166e4696ca639c22dc9452267d56d875c8f3d8e",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "sillares_muralla_a.png",
+      "sha256": "bd11ce7ec99a0368e9cbb16e19f022b16b313d23d46658cb584fec6809b8349d",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "sillares_muralla_b.png",
+      "sha256": "73eb09f27e5b0b0cd2947be5075019358642f3fd802f94510352bbe13a830880",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "sillares_muralla_c.png",
+      "sha256": "91a164f3e2da0d1736c9cd43f9fd919603858869549a28b194461eb719a28956",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "muralla_ladrillo_piedra_a.png",
+      "sha256": "b2db175d7c3b2299ae35bd8cccdb2989e3119b1485c64a5378209f7297f160cc",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "muralla_ladrillo_piedra_b.png",
+      "sha256": "e75e3207ae0a3dbb3da3dadee95618501ee06ed88edaaadbf9e43f79a07d1680",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "muralla_ladrillo_piedra_c.png",
+      "sha256": "29eb7a4106e4477ce479794389deacfbd506c85d80e334e4dc5aa73510206e00",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "tierra_cuartel_a.png",
+      "sha256": "91e4d70cfa3293a76a3d07c4e19fa4d448aaba1f354760aceac1699f5573b5b8",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "tierra_cuartel_b.png",
+      "sha256": "67881580ab7793ff4808c8c3c782c1dcc866936adbbaeb066caeee8d899ea095",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    },
+    {
+      "archivo": "tierra_cuartel_c.png",
+      "sha256": "c7e3380a59c7dd9b4183f3203cb2050eeae31561819513f3fa091fe97c53f9af",
+      "resolucion": [
+        512,
+        512
+      ],
+      "max_diferencia_borde": 0
+    }
+  ]
+}

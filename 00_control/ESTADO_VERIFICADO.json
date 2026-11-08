@@ -1,0 +1,4721 @@
+{
+  "fecha": "2026-11-07",
+  "total": 294,
+  "generados": 294,
+  "revisados_blender": 0,
+  "estado_qa": "pendiente",
+  "dimensiones": {
+    "512x512": 219,
+    "1024x1024": 51,
+    "256x256": 21,
+    "512x256": 3
+  },
+  "alfa_corregido": 21,
+  "incidencias_bordes": [],
+  "archivos": [
+    {
+      "archivo": "teja_arabe_roja_a.png",
+      "ruta": "comunes/tejados/teja_arabe_roja_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "908cc807d4d2e1abad11d39faddd4c408eb2a7365b1613cd18c9d23e832ec94c",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_arabe_roja_b.png",
+      "ruta": "comunes/tejados/teja_arabe_roja_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ec42754de516d4b6b7a24d98a5407ab118735d2e508d69a976900a439f67b100",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_arabe_roja_c.png",
+      "ruta": "comunes/tejados/teja_arabe_roja_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7b97431ba5d1f65a7bbf801a654b22b5dcc78e385d5ba0ae14bd84808352e5e5",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_oscura_vieja_a.png",
+      "ruta": "comunes/tejados/teja_oscura_vieja_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "0a9d1736fc5eee0129ad1a92b3a066645c8d1312968992c5c40ee946e6b7adda",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_oscura_vieja_b.png",
+      "ruta": "comunes/tejados/teja_oscura_vieja_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "cc99cd875cea561a1314783f929b1c6d851034b472efe4f9bf4ef27c0fb92c3b",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_oscura_vieja_c.png",
+      "ruta": "comunes/tejados/teja_oscura_vieja_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e085d8c3019d7d49ceff1477fc4c84663cd4f9efaa9c440b2e664399896b957f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "pizarra_liguria_a.png",
+      "ruta": "comunes/tejados/pizarra_liguria_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "13ae33bdc4bc1bedd086c1b48cd7bc4c9684d451cab10c1c8d89d5b9fa18dc12",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "pizarra_liguria_b.png",
+      "ruta": "comunes/tejados/pizarra_liguria_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7875cda983fa0147fd8f9fc9958a292e8cc04475ac2b4e65b5a8a10a2b079018",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "pizarra_liguria_c.png",
+      "ruta": "comunes/tejados/pizarra_liguria_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6d1b09059a1be5feb5296f488e3d1452ef52feed13e6dd27e230e02376693cbe",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "paja_techumbre_a.png",
+      "ruta": "comunes/tejados/paja_techumbre_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d75dc28afbedcda65a2432c2eeca17c268cc3d5995cb7174b67df13c5d27444a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "paja_techumbre_b.png",
+      "ruta": "comunes/tejados/paja_techumbre_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "fc44e02c6480f1da46fcba495d84804c069b3129c13b43c367a762b76df30480",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "paja_techumbre_c.png",
+      "ruta": "comunes/tejados/paja_techumbre_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b3ecf015e93d57cfbb619b9738840ce3c81a487acf0c250ea5b9ccfb83491499",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "plomo_cupula_a.png",
+      "ruta": "comunes/tejados/plomo_cupula_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "8116c14729d4915891c431f6353a7efeb7c8601d5748958904c7f5ec07ee85aa",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "plomo_cupula_b.png",
+      "ruta": "comunes/tejados/plomo_cupula_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e9a3eb117599547d952f781f5f5113e22e5312f194e813f407f3d463139cb20e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "plomo_cupula_c.png",
+      "ruta": "comunes/tejados/plomo_cupula_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "8676825f5de7d4c976b21416ff3b3c51678d0ebdef582dafe4839ae935ae3d62",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "enlucido_claro_a.png",
+      "ruta": "comunes/muros/enlucido_claro_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "93425601fa164b3dff3c5c6fcef11a8f34154fb2b0b913d4d88ff5c707f870a9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "enlucido_claro_b.png",
+      "ruta": "comunes/muros/enlucido_claro_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7cf9b64bb090e2f406f7f44bafb11001d60532a38cb018289cd1d178cf1856ce",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "enlucido_claro_c.png",
+      "ruta": "comunes/muros/enlucido_claro_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "aa0df26f7b4f84a308075fc44c88d399487d80dea3e6d1440bebdde9fedf13e4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "enlucido_desconchado_a.png",
+      "ruta": "comunes/muros/enlucido_desconchado_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2566fc62425b86f63e34c1ca178981943de73d725a4277f47e3c4fa4091561d4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "enlucido_desconchado_b.png",
+      "ruta": "comunes/muros/enlucido_desconchado_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a893f8c2968572e8dcb9e141310b22c27bae75fc3a88bf48978dbddeb35e08d9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "enlucido_desconchado_c.png",
+      "ruta": "comunes/muros/enlucido_desconchado_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "cbec63caf3bdba1291291e9a1631dba79d6477fa3210ee31078238386d7ce5ee",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "adobe_a.png",
+      "ruta": "comunes/muros/adobe_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "fd9fa038a2eb2fa290e60365a508e8dc900171af7ea8fede13a83d0b1af8b016",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "adobe_b.png",
+      "ruta": "comunes/muros/adobe_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "3da0645822c2bd2113b7747829656923b637ca742a51e3679892349ac773cc60",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "adobe_c.png",
+      "ruta": "comunes/muros/adobe_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d4260b2a7b8d0ef8402c7a58a2a0e1519d2ac1af78a3d33e319ef9d45d458d28",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ladrillo_toscano_a.png",
+      "ruta": "comunes/muros/ladrillo_toscano_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a056efff8f47ffa1babed10bcd44066c73d2d6594220c91987f86652f1e7d76b",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_toscano_b.png",
+      "ruta": "comunes/muros/ladrillo_toscano_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "5d30b0f8df821c4c6d48285539868264a2d68ea1c97514bbf9cfe102e165c743",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_toscano_c.png",
+      "ruta": "comunes/muros/ladrillo_toscano_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "12b94a7310885a0b95647cab5745f921dfacee7e6a41dcad00dee2fc60f72ce4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_lombardo_a.png",
+      "ruta": "comunes/muros/ladrillo_lombardo_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "486e5cb4f9cf4c5f6b5bd3195a3c71e7577ca579a2a3748f137df870c731fa96",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_lombardo_b.png",
+      "ruta": "comunes/muros/ladrillo_lombardo_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "68dd16edd24d152ce3149a41af1715a734f75df0482a8cd6d90c873f02d9b422",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_lombardo_c.png",
+      "ruta": "comunes/muros/ladrillo_lombardo_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "5d880dee60b293c1f743734f00903976c51db4157dba902eb9e6a459fb6f75d1",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "mamposteria_zocalo_a.png",
+      "ruta": "comunes/muros/mamposteria_zocalo_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6a742f0e6f8881caade76b9eba0618450e0cf8a4488781158f939ccb1718201b",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "mamposteria_zocalo_b.png",
+      "ruta": "comunes/muros/mamposteria_zocalo_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a41369ef6a50dddfd29e7816974c12f013045f51e3245991f39f3a12b54e00b7",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "mamposteria_zocalo_c.png",
+      "ruta": "comunes/muros/mamposteria_zocalo_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2758e682044344b662b4d0e155139ec4481bb34468e1aaf19e9333fc4e7fafbe",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "piedra_serena_sillares_a.png",
+      "ruta": "comunes/piedra_noble/piedra_serena_sillares_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "8370cb2a0fc5ebd8694a5250c9196ac6053d0796cb8152fd30f1f13b90eed18c",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_serena_sillares_b.png",
+      "ruta": "comunes/piedra_noble/piedra_serena_sillares_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7cb36bf7cd631666540ec370b8a8b36bf0985e14e9b153b81473023520dcbbc8",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_serena_sillares_c.png",
+      "ruta": "comunes/piedra_noble/piedra_serena_sillares_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b66097d0c0f313e2fefc8e43273e8f393c7fc4b77414a1ae528970f9636d7735",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "almohadillado_rustico_a.png",
+      "ruta": "comunes/piedra_noble/almohadillado_rustico_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "5e24d49169b23740a1189ef58afe123b74af0438d8f92a9eeabc61ea441ef541",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "almohadillado_rustico_b.png",
+      "ruta": "comunes/piedra_noble/almohadillado_rustico_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "003c9f36d4f594d0bac59b1ca27cf1350ab08f107e52c5a398a1ed92e10df0e0",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "almohadillado_rustico_c.png",
+      "ruta": "comunes/piedra_noble/almohadillado_rustico_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "434864653f6d530cc602860f429fa1ae53b21907ce23484f8b7ab931143c4230",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "travertino_a.png",
+      "ruta": "comunes/piedra_noble/travertino_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "862c6084afeb1922976ddeb8a1c17d7c300d30b8791cfcd6d1ddd085854c7dbb",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "travertino_b.png",
+      "ruta": "comunes/piedra_noble/travertino_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "35312ddeec3e4697a3a15bb650363e5bbab0586e6c8cf351c5c3d3239d38a36c",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "travertino_c.png",
+      "ruta": "comunes/piedra_noble/travertino_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7555ede75d25ab963d5741cf6d5d3c8aa995210e34fc4741c680204947ce7a3f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_blanco_verde_a.png",
+      "ruta": "comunes/piedra_noble/marmol_blanco_verde_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "8812ac30ceae4b9d92d8a7be841cd1b142a58b1f1e5efe8af0ef3703bb67253d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_blanco_verde_b.png",
+      "ruta": "comunes/piedra_noble/marmol_blanco_verde_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "53984da679fae5ffd942216c2abf7108f31571e3ee646c99559b1e5cca880d5e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_blanco_verde_c.png",
+      "ruta": "comunes/piedra_noble/marmol_blanco_verde_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "e9245d0412f643cf0680bd89688ca1665d0be344f2c3ebba97fd7c36a91075b5",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_franjas_a.png",
+      "ruta": "comunes/piedra_noble/piedra_franjas_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "f3ac634023ae35348dd93833eef3d2e2232c183359d30544c8193a24c8b6efc3",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_franjas_b.png",
+      "ruta": "comunes/piedra_noble/piedra_franjas_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "89d7eefd814c49066c7f11c1787a32e8dacff869d1489d1cebdc982dd60388da",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_franjas_c.png",
+      "ruta": "comunes/piedra_noble/piedra_franjas_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "78eeec6032ee7040c1c8f47db53e7ac560d73d2e864f5a333c107773cd1bda01",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "toba_dorada_a.png",
+      "ruta": "comunes/piedra_noble/toba_dorada_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ccd03c27790f178a88b030ed2c3eb2febf2400114d17f210e764824bd21bcb3f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "toba_dorada_b.png",
+      "ruta": "comunes/piedra_noble/toba_dorada_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "9430bd198130a0d09a75331c2ce55042f08fdfdc7ca7345882e750362aab69cc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "toba_dorada_c.png",
+      "ruta": "comunes/piedra_noble/toba_dorada_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ff79677e6dc16d4b29d6129fc18b3aa9c890fed5de04f9f0991c3d5b3bdbd866",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_istria_a.png",
+      "ruta": "comunes/piedra_noble/piedra_istria_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "8edec80e80c9da7b223eb3cf50c14566714ad783e6e99c99a48d6eba916080f7",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_istria_b.png",
+      "ruta": "comunes/piedra_noble/piedra_istria_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "3cec12b9ca62cede69b7d007c360cbed5075fee3d4fe787f165a62f48d80c06a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_istria_c.png",
+      "ruta": "comunes/piedra_noble/piedra_istria_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "299f5f97c486aa64efde5eb87b09cae66d0a9037efb7b484e1f51ac3d7fb2b86",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_carrara_a.png",
+      "ruta": "comunes/marmoles/marmol_carrara_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1fdc047221567c2ab969b891046e336ce0e6931c481f6d7c94e4f3ac1f710fd1",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_carrara_b.png",
+      "ruta": "comunes/marmoles/marmol_carrara_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "0724ea77974cd992edca3e2537033aac34e6441f3d1b77db7be119a42d8ea7fc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_carrara_c.png",
+      "ruta": "comunes/marmoles/marmol_carrara_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d1423f1f6900f0da85856a664c800b503585c9d5257a278e105bf0a30ec477a7",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_verde_prato_a.png",
+      "ruta": "comunes/marmoles/marmol_verde_prato_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ed82ba5efe3a9e519e5c9b26ce2b18de245250e77a4b20e24498bb3a856c3389",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_verde_prato_b.png",
+      "ruta": "comunes/marmoles/marmol_verde_prato_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b346f90b649f2cd9a65df5bbd438e18fa596a0eee4b867b003cc905fc0bcb7c9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_verde_prato_c.png",
+      "ruta": "comunes/marmoles/marmol_verde_prato_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "0689de578aef2219f3bba6e836049219ddb29140d4544c90758eaef24a115b4f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rosa_maremma_a.png",
+      "ruta": "comunes/marmoles/marmol_rosa_maremma_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "fb582f3d2954b8c6d297281c5945a91010d08533f479b03acf34acbdfe424ecc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rosa_maremma_b.png",
+      "ruta": "comunes/marmoles/marmol_rosa_maremma_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "50efe04caf6fa63a99212e9b6bca39d8fbb8b0e00c1d99c9453fb64049ebb455",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rosa_maremma_c.png",
+      "ruta": "comunes/marmoles/marmol_rosa_maremma_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "28ffe5beade8c7b2e3b4ca5c3a20f73fff421a372edd32554e253e1593fc257f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rojo_verona_a.png",
+      "ruta": "comunes/marmoles/marmol_rojo_verona_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a77c82e06ebc38d2badeeaa97461c9517ebd722272439f3f9c92f149c79349e9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rojo_verona_b.png",
+      "ruta": "comunes/marmoles/marmol_rojo_verona_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "f4fa8efebe9465fc7a88ee54e362875dd4e1b474f29bf3fc7c15ba0ede23b17d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rojo_verona_c.png",
+      "ruta": "comunes/marmoles/marmol_rojo_verona_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "10e496ae489dd176102f4b4f1f6e5d43a008a0a4573b45201c2c0e64b2702213",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_serena_lisa_a.png",
+      "ruta": "comunes/columnas_y_piedra_lisa/piedra_serena_lisa_a.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "b022c6c05bebe756c4cd15137f706d3f5b00ef55109b4eebc600351ac64eaa3d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_serena_lisa_b.png",
+      "ruta": "comunes/columnas_y_piedra_lisa/piedra_serena_lisa_b.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "17a53b88c201bafa00086a82e579a1a601b48e96d6b1eff57bcb40da8ccc4188",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_serena_lisa_c.png",
+      "ruta": "comunes/columnas_y_piedra_lisa/piedra_serena_lisa_c.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "11340b304e70c3c96592874b27a006a93dcd69844109445d28fa383343965d6e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_clara_labrada_a.png",
+      "ruta": "comunes/columnas_y_piedra_lisa/piedra_clara_labrada_a.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "ef097d2c6138c6c1cfdd3b92723468f2e976206ff617130ae47672fed6546ad4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_clara_labrada_b.png",
+      "ruta": "comunes/columnas_y_piedra_lisa/piedra_clara_labrada_b.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "17fa6fb9826755382066823f71ef4ea81741e8e71c8f3f9c3f72cf5c90e5cab7",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_clara_labrada_c.png",
+      "ruta": "comunes/columnas_y_piedra_lisa/piedra_clara_labrada_c.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "a46a962d1209453e4275e4eaa5940d2cfd1d04cd99592066771f9b3a58db58cc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidrio_rulli_a.png",
+      "ruta": "comunes/vidrio/vidrio_rulli_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "ef90554c0185d2cfd26dcc7cb1f8c25394a83cb59eabd096f58c90c8f653fed4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidrio_rulli_b.png",
+      "ruta": "comunes/vidrio/vidrio_rulli_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "f7af65d6d69781ea2ab8575189d0302a1e4ac34134c8c240d4419800660c27c9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidrio_rulli_c.png",
+      "ruta": "comunes/vidrio/vidrio_rulli_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "066c4e94409e0c93d0c5fa66fdc08f4af547079829316e6249386bfcbe17fd38",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidrio_cuarterones_a.png",
+      "ruta": "comunes/vidrio/vidrio_cuarterones_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "2c9c904df2d1350794094ffb4f7f7b7e12b7de20828bb3e63b73ad9ba21d8ce4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidrio_cuarterones_b.png",
+      "ruta": "comunes/vidrio/vidrio_cuarterones_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "653750d9d14c68b11f54e0bd210bb6d9e5f19c22c8f67803aa489b6a021513ff",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidrio_cuarterones_c.png",
+      "ruta": "comunes/vidrio/vidrio_cuarterones_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "38c5bc54500714c0304452b1139226ecca7f8eaa9c5257e5f6852f4f1fc7b65c",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidriera_iglesia_a.png",
+      "ruta": "comunes/vidrio/vidriera_iglesia_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "c0851a718ae55e96ca34537f3062af48a346c5cd6b058a0dba67a3ae2972f36c",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidriera_iglesia_b.png",
+      "ruta": "comunes/vidrio/vidriera_iglesia_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "7587e52bd23c1003abb115814208e349b70363ed18aad5a76161c59e6b2f50cb",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vidriera_iglesia_c.png",
+      "ruta": "comunes/vidrio/vidriera_iglesia_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "9e20dc267efce99a4c9b001553a4711cee27ffd5088cc6435a9cb85727770c54",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "esgrafiado_florentino_a.png",
+      "ruta": "comunes/fachadas_decoradas/esgrafiado_florentino_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "ca45a14b4e09ccc398e8e0988fa5787c990198bb9a00108e8a3a757122cbf673",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "esgrafiado_florentino_b.png",
+      "ruta": "comunes/fachadas_decoradas/esgrafiado_florentino_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "9fa976a11c3bab5dc08e796e6db095851de3fbf75169c0aeb30ce0f207d6d302",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "esgrafiado_florentino_c.png",
+      "ruta": "comunes/fachadas_decoradas/esgrafiado_florentino_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "035809b756385cfe11b3339830336296dc55a730ec51c7ea1416a078c53ced8c",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "terracota_decorativa_a.png",
+      "ruta": "comunes/fachadas_decoradas/terracota_decorativa_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "0ee0dc0ed1b871a2ea76c9df896cf9ef6abf48a26a802daca39057f2db843b51",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "terracota_decorativa_b.png",
+      "ruta": "comunes/fachadas_decoradas/terracota_decorativa_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "101d9e9a9c378164ab50a060fc9ac51070ab6a64c290981cbc18d43c3374d3ca",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "terracota_decorativa_c.png",
+      "ruta": "comunes/fachadas_decoradas/terracota_decorativa_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "4efd475dbffca0690c1d3dc22e2ce0ca579dac2a8edfd55a70bc5da2fdf68858",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "vigas_viejas_a.png",
+      "ruta": "comunes/madera/vigas_viejas_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d2d7c5c0ea3ea4905f54e8ead035ed4609067964e2fa5b504db9b66bf839014a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vigas_viejas_b.png",
+      "ruta": "comunes/madera/vigas_viejas_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7c41881a10a548fd9e2239f932997798975ce19bee5a9c81cc18cb8674cc4c12",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vigas_viejas_c.png",
+      "ruta": "comunes/madera/vigas_viejas_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6684fdd70f0514d67e4f984ea1680021f29c953e0b19f7b30a711f75895876ee",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tablas_puertas_a.png",
+      "ruta": "comunes/madera/tablas_puertas_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "c141124cf44daf7980f9bbda01b04ec1f974080632d7b203ab739e2abb2f674d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tablas_puertas_b.png",
+      "ruta": "comunes/madera/tablas_puertas_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "5b8f3a581fa66a621a98ce9aee32e0a7a05d710df446a951d9c3057483c62e9d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tablas_puertas_c.png",
+      "ruta": "comunes/madera/tablas_puertas_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "990eaaa68419a28d5d0416de37c18dac5d1c96c85ea9c126a1c7fb6a6feb7200",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "corteza_olivo_encina_a.png",
+      "ruta": "comunes/arboles_y_troncos/corteza_olivo_encina_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "62d7869c36e7f4044945b03afb3930eb6575a4df1c23dd35f126e3a021a52ce5",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "corteza_olivo_encina_b.png",
+      "ruta": "comunes/arboles_y_troncos/corteza_olivo_encina_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "efca719218687720e63dc834d79cc53eb8c2891c254cb5a430110d8c08eb0a8e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "corteza_olivo_encina_c.png",
+      "ruta": "comunes/arboles_y_troncos/corteza_olivo_encina_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "8076473f3adb4943ca8d0e6ba3070fba59da10027ac5da94af42e9563c7eb4f8",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "corteza_cipres_pino_a.png",
+      "ruta": "comunes/arboles_y_troncos/corteza_cipres_pino_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7ebd2fcecee2160a1c03b47f81bebc583c16f6497741d57bbbdc3eddaf89b231",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "corteza_cipres_pino_b.png",
+      "ruta": "comunes/arboles_y_troncos/corteza_cipres_pino_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "c3a92c8404362660ba27dd36165a1fac4a333b56a660d755fd24fa8ea0b0f525",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "corteza_cipres_pino_c.png",
+      "ruta": "comunes/arboles_y_troncos/corteza_cipres_pino_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "cb514a6f80f73daf9fbefd6b4ad0d069459dec8077dd03ca4d5d64f9f2012381",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ramillete_olivo_a.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_olivo_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "e18a153dd163a0c792a3ac6de26f08a7199c860fd4c6c42d63ae2522187129c3",
+      "repeticion": "no",
+      "lr_error": 67,
+      "tb_error": 94,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ramillete_olivo_b.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_olivo_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "106754e06cd4c25f3c8b8e6a419b67018113d68887708cc45586a4458f56dc77",
+      "repeticion": "no",
+      "lr_error": 59,
+      "tb_error": 64,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ramillete_olivo_c.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_olivo_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "e31525057afad7d71add331bc310c7b7c1040f89ec531fe4dc5ff8c02c8c9906",
+      "repeticion": "no",
+      "lr_error": 72,
+      "tb_error": 49,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ramillete_encina_a.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_encina_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "3dd70d757a8ebed105e80c7022e4745b97aa6fda28b683adf0b4ff36e76c3fd2",
+      "repeticion": "no",
+      "lr_error": 34,
+      "tb_error": 73,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "critica"
+    },
+    {
+      "archivo": "ramillete_encina_b.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_encina_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "34eef2457dfbb1bb87dc80c4fa5707e59278c6fc914515079e7ceca97c2b6fc3",
+      "repeticion": "no",
+      "lr_error": 25,
+      "tb_error": 65,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "critica"
+    },
+    {
+      "archivo": "ramillete_encina_c.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_encina_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "586e887b66a7330b7fd8a0d15f8e87124ca63f3dc1d9574b9ce7746fcefbba7f",
+      "repeticion": "no",
+      "lr_error": 28,
+      "tb_error": 50,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "critica"
+    },
+    {
+      "archivo": "ramillete_cipres_a.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_cipres_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "526886203a90c789dcd10bc55bbb811d8b30987434b22386914b84d01820174a",
+      "repeticion": "no",
+      "lr_error": 21,
+      "tb_error": 53,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "critica"
+    },
+    {
+      "archivo": "ramillete_cipres_b.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_cipres_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "9a71d38e3931cdcddc17d643f6851b26b8edf272aa8249ca68a01c0ea5f78fb9",
+      "repeticion": "no",
+      "lr_error": 38,
+      "tb_error": 61,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "critica"
+    },
+    {
+      "archivo": "ramillete_cipres_c.png",
+      "ruta": "comunes/arboles_y_troncos/ramillete_cipres_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "9b4290738ee67c9f1359390ae93dcb5ec5483a335165d0676026939b59dfc5dc",
+      "repeticion": "no",
+      "lr_error": 39,
+      "tb_error": 218,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "critica"
+    },
+    {
+      "archivo": "corte_tronco_a.png",
+      "ruta": "comunes/arboles_y_troncos/corte_tronco_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "e999dfe3968faaa0e1b0a77c9cee22800080a6a5e7969b266e7675fc065a44bd",
+      "repeticion": "no",
+      "lr_error": 34,
+      "tb_error": 39,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "corte_tronco_b.png",
+      "ruta": "comunes/arboles_y_troncos/corte_tronco_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "22e55488377939f641f5cf680e7b2eda9ad04b96c7ba7a3fd8132730dc5579f4",
+      "repeticion": "no",
+      "lr_error": 44,
+      "tb_error": 38,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "corte_tronco_c.png",
+      "ruta": "comunes/arboles_y_troncos/corte_tronco_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "4a6d937cc3f84461fea03c2ec570a9db16a48a613593422c7d8ef45e9c9e9f02",
+      "repeticion": "no",
+      "lr_error": 31,
+      "tb_error": 39,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "losas_piedra_a.png",
+      "ruta": "comunes/suelos/losas_piedra_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "744a5ea8f16e1da232223b5c03f325c98d99e67076c17abb728aeb2826ad458f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "losas_piedra_b.png",
+      "ruta": "comunes/suelos/losas_piedra_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "911ab286e6c6975e9f860d52af6fce26c2706beb81115d0bb2d64a333717730e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "losas_piedra_c.png",
+      "ruta": "comunes/suelos/losas_piedra_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "cbf7fbd4625153beba85c71e29c4336a7e33e7519f8454cadc11559e59400813",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_apisonada_a.png",
+      "ruta": "comunes/suelos/tierra_apisonada_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1a411ff9ef04a8fd95c9180bfb22e4a4cc8c0b1f472c3b50f2c3db45aebf8bd5",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_apisonada_b.png",
+      "ruta": "comunes/suelos/tierra_apisonada_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "5f8dd0071c2c37187fc65bcdabe4bb2178264e104af8053322a57aeb7e089609",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_apisonada_c.png",
+      "ruta": "comunes/suelos/tierra_apisonada_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "148f45e1e3190c00ca4cb618a8d96178f34da5e890a364eda6bd90db89b60126",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "grava_a.png",
+      "ruta": "comunes/suelos/grava_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "863f73d5560876b8ba4cbd090254a443d158492e32aad7540eb64f3e2d929b38",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "grava_b.png",
+      "ruta": "comunes/suelos/grava_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2548095f88b7194235c93202fc2dc6e72f95e486eb1670dac618fcc99c9f185b",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "grava_c.png",
+      "ruta": "comunes/suelos/grava_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "062b51a6cb8034acf74f1caa1327e21b8da969b15b64292d2556780eee8ede08",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "toldo_lino_a.png",
+      "ruta": "comunes/telas/toldo_lino_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1751b474868a93c8222da6652b4496365a233fa57869ababee9a7b5954bb2549",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "toldo_lino_b.png",
+      "ruta": "comunes/telas/toldo_lino_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b852c9aa4a0bf6c226a5c0a0f2f76dcfab70e7f4e88dd41cd5bdb4195fed3cb9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "toldo_lino_c.png",
+      "ruta": "comunes/telas/toldo_lino_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "f2eb4a626e0f18b574286c4d68a77abae1d0314c28ad963b177e0d2f3cf29631",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_arada_a.png",
+      "ruta": "comunes/campos_jardines_e_industria/tierra_arada_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d14f18df1edaf94fc2a9d197aaccb47d180a16ae878a0df9449b2f1477083486",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_arada_b.png",
+      "ruta": "comunes/campos_jardines_e_industria/tierra_arada_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b1af14c8d2e03696575c916456958c0a0e090f3cb38117b22b75784e8ae04b12",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_arada_c.png",
+      "ruta": "comunes/campos_jardines_e_industria/tierra_arada_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "c2d1d314fb24037c0fedb3dbd509acbf3546ce77b15149547ee12423371d79c3",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "hierba_corta_a.png",
+      "ruta": "comunes/campos_jardines_e_industria/hierba_corta_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1972eb87858cf6ba0dec4465c67411c32e67d69c0aaa78d2225149ff33fc0ae4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "hierba_corta_b.png",
+      "ruta": "comunes/campos_jardines_e_industria/hierba_corta_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2cde3e84fb45828460787633896bafc6af4e9b489b41cf746e649b8e9d6fe132",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "hierba_corta_c.png",
+      "ruta": "comunes/campos_jardines_e_industria/hierba_corta_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "698bde08f099ce1c6a5fdde9a9f4476b28fa1b77b1bb56a18cbe74975108f2dc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "arcilla_humeda_a.png",
+      "ruta": "comunes/campos_jardines_e_industria/arcilla_humeda_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1125c814b0154cade74836cb1e191657fce37bd67fcdda67ac622eca8514fe80",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "arcilla_humeda_b.png",
+      "ruta": "comunes/campos_jardines_e_industria/arcilla_humeda_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b8171937f2e35ae6e4f206e8bd8692a79612fda9636054ad97332472aedd8bf2",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "arcilla_humeda_c.png",
+      "ruta": "comunes/campos_jardines_e_industria/arcilla_humeda_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a60aaad91a573cf4c9400b6a9c0efb11fa4a697737cdb0332c64e7b930718136",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vertedero_a.png",
+      "ruta": "comunes/campos_jardines_e_industria/vertedero_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "25b4bef6009b23bb0734a421bee4d6572270ea06abce3a3a4de2c496900c301d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vertedero_b.png",
+      "ruta": "comunes/campos_jardines_e_industria/vertedero_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2027ccbca2ec915cb5c883441a91a2516bcec99c62455861336085fba3fe70c4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "vertedero_c.png",
+      "ruta": "comunes/campos_jardines_e_industria/vertedero_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e336240774a566542f8b1e5451e4d228d2f9a6a45312e7e2b9199468238f9425",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "pietraforte_florencia_a.png",
+      "ruta": "ciudad/florencia/pietraforte_florencia_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d2864ff0e459805c03c942fe8a6c300cf463c06199f2de5ee74693f3d65c1ab0",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "pietraforte_florencia_b.png",
+      "ruta": "ciudad/florencia/pietraforte_florencia_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "80ee07c05094d367c276c5950b08a68f9333e56076fe20778ee83ca308b28bc8",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "pietraforte_florencia_c.png",
+      "ruta": "ciudad/florencia/pietraforte_florencia_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "c6b39f160041013e38f3ec5356bd2e314a9741e12ac9566d0f523be458a18f96",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_ocre_crema_florencia_a.png",
+      "ruta": "ciudad/florencia/revoque_ocre_crema_florencia_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "0c8327709945a9218ccd7f383c807ca1fcf9209bd75fe56144021c35e8c4d213",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_ocre_crema_florencia_b.png",
+      "ruta": "ciudad/florencia/revoque_ocre_crema_florencia_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "653fe789af071889f7030997bc3656d0122128db83c5f0ce50c657a1e57f1581",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_ocre_crema_florencia_c.png",
+      "ruta": "ciudad/florencia/revoque_ocre_crema_florencia_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ebe9faa98af24bee42d1da32f6893cd5dbd0b83fc5de681461b5efc57e03bbfb",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_caballete_florencia_a.png",
+      "ruta": "ciudad/florencia/teja_caballete_florencia_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "ebbc810078584fb26721d02222c80c8b03dcc1e7f0e23e62a67269316d23fb7b",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_caballete_florencia_b.png",
+      "ruta": "ciudad/florencia/teja_caballete_florencia_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "d81b2da47839c117ad993853190c6a82232353460f2a9f2a9cd7b07237d447eb",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_caballete_florencia_c.png",
+      "ruta": "ciudad/florencia/teja_caballete_florencia_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "802e329f1a4863034cefd061d91de30edad07b80c43e24229e7b1894871fcf70",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "empedrado_lastrone_florencia_a.png",
+      "ruta": "ciudad/florencia/empedrado_lastrone_florencia_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ac7455912371d73e2d243668dcaf50fbdb786a23f3f61180d429614fb08372fd",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "empedrado_lastrone_florencia_b.png",
+      "ruta": "ciudad/florencia/empedrado_lastrone_florencia_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "3116522a1265e6728cd4999adbf357cc0c2cbe1e55dbef9b5a1d5a375dccce96",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "empedrado_lastrone_florencia_c.png",
+      "ruta": "ciudad/florencia/empedrado_lastrone_florencia_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "fd23f87b0b4c90f891ee54104761437fb6eeda65da8656adb4a9ab9b200d0be3",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ladrillo_revoque_rojo_venecia_a.png",
+      "ruta": "ciudad/venecia/ladrillo_revoque_rojo_venecia_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "68343743701a101b54cf908980239774be58225e4fa03f1a38070b3bce51a716",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_revoque_rojo_venecia_b.png",
+      "ruta": "ciudad/venecia/ladrillo_revoque_rojo_venecia_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "9292c0b1623c59850fb79fbbf3fdb9a899b6c3af33e18886c9d614717be9d160",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_revoque_rojo_venecia_c.png",
+      "ruta": "ciudad/venecia/ladrillo_revoque_rojo_venecia_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1491f79a7094120dfa4edc9b010787c70c6b7f40c5fe69d7c541ceb721c430ae",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "teja_clara_venecia_a.png",
+      "ruta": "ciudad/venecia/teja_clara_venecia_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "a1ea9b068523d7c0b6e127a65221e187b37aebb699056e55204ec2ef6c49b220",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_clara_venecia_b.png",
+      "ruta": "ciudad/venecia/teja_clara_venecia_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "85ae10394d9323e2adbe6c16dd8837af60cd5d79155a2a694160fc469e887c1a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_clara_venecia_c.png",
+      "ruta": "ciudad/venecia/teja_clara_venecia_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "a5a4944d31f71ac21d874e3531dc9f75638ea389ac22428d91a5d092720169f6",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "masegni_traquita_venecia_a.png",
+      "ruta": "ciudad/venecia/masegni_traquita_venecia_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "00f59cc8f7b9dd487880f8526b9dbca916dbbd08fc485f907073b0e7a55ad83a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "masegni_traquita_venecia_b.png",
+      "ruta": "ciudad/venecia/masegni_traquita_venecia_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "cc42c6481807dc78bc2bd6f241e743e3c0666d70b15ddbd8b5a7707803920edf",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "masegni_traquita_venecia_c.png",
+      "ruta": "ciudad/venecia/masegni_traquita_venecia_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "3aafb740a6f53cb3690c30a7cfd32666c3f40fb89a16fde3cd566a9c4785098d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rojo_istria_venecia_a.png",
+      "ruta": "ciudad/venecia/marmol_rojo_istria_venecia_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "d961e49dfde5a8d3dfc06b4573cc37f50ed10f9e6a5815617d965e4f013aa6a4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rojo_istria_venecia_b.png",
+      "ruta": "ciudad/venecia/marmol_rojo_istria_venecia_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "9e847242548b42d2cfda7e974397f4fa72e38b9a7d82788a2e71b9862511517e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "marmol_rojo_istria_venecia_c.png",
+      "ruta": "ciudad/venecia/marmol_rojo_istria_venecia_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "9a22fc5bf3ab4d0ed19fa719fcab81b8b04acab861613fae381e49c8f5cf9ef2",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "madera_pilotes_venecia_a.png",
+      "ruta": "ciudad/venecia/madera_pilotes_venecia_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "363a56142b2c607a07beffea11af23830de378554e868439291219883b4f77a1",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "madera_pilotes_venecia_b.png",
+      "ruta": "ciudad/venecia/madera_pilotes_venecia_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "3008b0f16c299835afb7095bcb1099970055c67050b41eb08074aa25f85054bc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "madera_pilotes_venecia_c.png",
+      "ruta": "ciudad/venecia/madera_pilotes_venecia_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1558bbdb432081e7a1d2ae8bcba09737984a1f224243b0bab9a9138d0e86bc9f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ceppo_lombardo_milan_a.png",
+      "ruta": "ciudad/milán/ceppo_lombardo_milan_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a8474cc6f203d5ccae149ca988631b21402f2703a451986be551813006eb301a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ceppo_lombardo_milan_b.png",
+      "ruta": "ciudad/milán/ceppo_lombardo_milan_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "061f17d20523d47106b66ab760a8680a0f429a3e9f279d814d85d785e09c1028",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ceppo_lombardo_milan_c.png",
+      "ruta": "ciudad/milán/ceppo_lombardo_milan_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "97f5bc70416ca3f88a3142fd79f832fd88aa318a6aef146009fe109e63b6ea2e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_lombardo_milan_a.png",
+      "ruta": "ciudad/milán/revoque_lombardo_milan_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "c74a89107e16d4642076be1d5c49616b311c4b048ada82af35f5ba339314bc70",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_lombardo_milan_b.png",
+      "ruta": "ciudad/milán/revoque_lombardo_milan_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "3afc54d1861c152bb200af5e1f3213543ae6434cbc4e7322e48479e01b9450fd",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_lombardo_milan_c.png",
+      "ruta": "ciudad/milán/revoque_lombardo_milan_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d84921420a8b37bf0fd32b3888ed7af795cf8f522c56de5441f04fb66cc5202e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_lombarda_oscura_milan_a.png",
+      "ruta": "ciudad/milán/teja_lombarda_oscura_milan_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "12691008d948a0abfede91bec8b4a2165130ea08bc5c010513639bb71604c390",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_lombarda_oscura_milan_b.png",
+      "ruta": "ciudad/milán/teja_lombarda_oscura_milan_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "c46a943ef55f00d4dd42592c4fe10d65de2ed2e93ecde3068885bd9053f846bc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "teja_lombarda_oscura_milan_c.png",
+      "ruta": "ciudad/milán/teja_lombarda_oscura_milan_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "21fc5b8a9a4a1bcef1e01588f72ab9d5c3ea6b66a8e8f08f3eaf97f09b23c8ab",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "rizada_cantos_rodados_milan_a.png",
+      "ruta": "ciudad/milán/rizada_cantos_rodados_milan_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6ec542c764c859dfe0fc6b5fc883bbeb9fa1fc67fbec4c21655fa3115584f4b9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "rizada_cantos_rodados_milan_b.png",
+      "ruta": "ciudad/milán/rizada_cantos_rodados_milan_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "27f5edf05062b404dbbb891e53b69e9405d69d46b5916730f43ea500b3686a42",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "rizada_cantos_rodados_milan_c.png",
+      "ruta": "ciudad/milán/rizada_cantos_rodados_milan_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "046c6b8a618a25b86c88cdd176b482a71bc9aebc771e1f204b7a40d109dff307",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "fachada_pintada_genova_a.png",
+      "ruta": "ciudad/génova/fachada_pintada_genova_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "5f363e5ac90ee6e2a08b0edb397f81e9d07f12751157b213c0c57041b79e808e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "fachada_pintada_genova_b.png",
+      "ruta": "ciudad/génova/fachada_pintada_genova_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "cfbf988652462f964d9bf2286bb0803842f454ed9977acb753880bc1c9a795b3",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "fachada_pintada_genova_c.png",
+      "ruta": "ciudad/génova/fachada_pintada_genova_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "46077b3a683019abdbe6e3ffb587f6d164f7fe6d4793d9ea5f4d0eff490e8558",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "fachada_rosa_genova_a.png",
+      "ruta": "ciudad/génova/fachada_rosa_genova_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "9133fe806c6ce9efef678a539cc0cdfb0e853ae6844f496a7040e4e119948c5b",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "fachada_rosa_genova_b.png",
+      "ruta": "ciudad/génova/fachada_rosa_genova_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "9cb1f314577224ea0d5f56e0393f922da4f4bc446b0c2c71bc15e41fb10cdc81",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "fachada_rosa_genova_c.png",
+      "ruta": "ciudad/génova/fachada_rosa_genova_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "2f0f4830a196189e28ee29c1535d3a00dc72a2ae75d57865624cf8c0817590c7",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "persianas_verdes_genova_a.png",
+      "ruta": "ciudad/génova/persianas_verdes_genova_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "4bf04c21828ced857056ac92af27a13c695dfae77a88afe8347c3b6bccbf4300",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "persianas_verdes_genova_b.png",
+      "ruta": "ciudad/génova/persianas_verdes_genova_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "4286beedd6fcfc6524a1124acf61e7fbdaad95c5fce6f79ed3c51f25af7bfa45",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "persianas_verdes_genova_c.png",
+      "ruta": "ciudad/génova/persianas_verdes_genova_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "6a70189302271069f2b447d801ef5903bf1d12d4d6590be7b7ca377b219e26dd",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "pavimento_ladrillo_pizarra_genova_a.png",
+      "ruta": "ciudad/génova/pavimento_ladrillo_pizarra_genova_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ae9e9b6d250f788461773d98bf6444e131be330c517cf049e596f53375fd29fa",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "pavimento_ladrillo_pizarra_genova_b.png",
+      "ruta": "ciudad/génova/pavimento_ladrillo_pizarra_genova_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e3fd7d635f384c043daa1eae4aa6716871c1801c121870b3d2c40f939eb15774",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "pavimento_ladrillo_pizarra_genova_c.png",
+      "ruta": "ciudad/génova/pavimento_ladrillo_pizarra_genova_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "06397dd05b1f95d5f25baa0cd96e8ec6c740608526cd384ce4650a4ac9125212",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_antiguo_roma_a.png",
+      "ruta": "ciudad/roma/ladrillo_antiguo_roma_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "30319f246a77b118fa4397ea7a45aab84ded720c73006f5d62be2e7724283619",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_antiguo_roma_b.png",
+      "ruta": "ciudad/roma/ladrillo_antiguo_roma_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e771e02375a5d35626045dca0d24f591fd8dcf6a8fc0302ba9f90e67231b13d9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "ladrillo_antiguo_roma_c.png",
+      "ruta": "ciudad/roma/ladrillo_antiguo_roma_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "4c1b42f6f81783fa6bcbd2387cfcca802792bbd8c036524cb7e56a0933e462c6",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "peperino_gris_roma_a.png",
+      "ruta": "ciudad/roma/peperino_gris_roma_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "9f0704df4448b93ae26446f75f455b6358854b61159ef63121f75d4a5bffaebf",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "peperino_gris_roma_b.png",
+      "ruta": "ciudad/roma/peperino_gris_roma_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6bbdb8a4e095a8a8c39d04389a4d38425dc70318b82032715136ba6704d7ba35",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "peperino_gris_roma_c.png",
+      "ruta": "ciudad/roma/peperino_gris_roma_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b0bd9bd8be9e7c533e78880858a259236417ce851bbda99581f7e2f739c16347",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_amarillo_roma_a.png",
+      "ruta": "ciudad/roma/revoque_amarillo_roma_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7100ba8628ee3574b7e73e2752d57151d9939e6f2f8ec9494a1af8478bbf024f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_amarillo_roma_b.png",
+      "ruta": "ciudad/roma/revoque_amarillo_roma_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ddc7aac39adf630b68551b87acebf5619362f9f06c7926602deca70d3f14fb48",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_amarillo_roma_c.png",
+      "ruta": "ciudad/roma/revoque_amarillo_roma_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2b44d9cf55341981db58b831d966ced045a22e42d74dec2003cc80eb167d57d5",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sampietrini_roma_a.png",
+      "ruta": "ciudad/roma/sampietrini_roma_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b3eab639a91dcd24c574ae7bca35d0c67a4527bbfb1c5151750304271eb7cb89",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sampietrini_roma_b.png",
+      "ruta": "ciudad/roma/sampietrini_roma_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7433d7beb962c98e0cf1cdbd803c7b26b3412de313cad106deafc1d2bbf6394d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sampietrini_roma_c.png",
+      "ruta": "ciudad/roma/sampietrini_roma_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "179bda82e5633c6fda1e82b0e64b1a5f49ee41011a0adc3e396cbceaaf04e3b9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "mosaico_cosmatesco_roma_a.png",
+      "ruta": "ciudad/roma/mosaico_cosmatesco_roma_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "d5b9875772a4710a1ffc1bbfcf9cf205e9f93f1148abd8fcf87c4a125429bd25",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "mosaico_cosmatesco_roma_b.png",
+      "ruta": "ciudad/roma/mosaico_cosmatesco_roma_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "e446d28724b1e2b7ad22778917a4d29f1669cdd3c9dd0b68abdb40f86552baaf",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "mosaico_cosmatesco_roma_c.png",
+      "ruta": "ciudad/roma/mosaico_cosmatesco_roma_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "e96fa2347cdb2fb0564a53f93cc749d6d7bebfd024a24fc7350f39d420794bf2",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "revoque_claro_palermo_a.png",
+      "ruta": "ciudad/palermo/revoque_claro_palermo_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "41c40f28073fa3639bf576b952d3e34f166d63f4cd15bd8961d605c15f182ab0",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_claro_palermo_b.png",
+      "ruta": "ciudad/palermo/revoque_claro_palermo_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "49fb2b231dbfeaad7a1ecc4d326ff54a0e731e2773bff8ac5c8449daa225b189",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "revoque_claro_palermo_c.png",
+      "ruta": "ciudad/palermo/revoque_claro_palermo_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "4235bde001652dc3c6fec01ef5503bd3b416c3e5aa7a54e528b3da96f88714f6",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cupula_roja_palermo_a.png",
+      "ruta": "ciudad/palermo/cupula_roja_palermo_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "32502cd141a9712bec417a5b94bfe2212f6cde8fba63a07fd4b4a8175feb787e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cupula_roja_palermo_b.png",
+      "ruta": "ciudad/palermo/cupula_roja_palermo_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6283745514610da3129e4f12a36069605d03f53424b73f8a9d9fccabbbca97a8",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cupula_roja_palermo_c.png",
+      "ruta": "ciudad/palermo/cupula_roja_palermo_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "01ea3bc0fe44d7bd8c3aa348f129ce40918db0e5dd5ec68e7567319f2158a26f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "arcos_entrelazados_palermo_a.png",
+      "ruta": "ciudad/palermo/arcos_entrelazados_palermo_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "ca8514cf7124be279451d4681f8c4c7468689a4fc3241322de5025e8f80da3bf",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "arcos_entrelazados_palermo_b.png",
+      "ruta": "ciudad/palermo/arcos_entrelazados_palermo_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "bf72ebd9349b4776d61d50df7b5a2377bd9dcb4369fa23e794308719afd98766",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "arcos_entrelazados_palermo_c.png",
+      "ruta": "ciudad/palermo/arcos_entrelazados_palermo_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "6c281a5e7d57cb1eb0b817ed1b7966217330e2347276d71de895d65ad5503961",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "mayolica_siciliana_palermo_a.png",
+      "ruta": "ciudad/palermo/mayolica_siciliana_palermo_a.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "014e6373f0e069e9d223768bde51540e84d30784fdf2e1da655d78f7249a22be",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "mayolica_siciliana_palermo_b.png",
+      "ruta": "ciudad/palermo/mayolica_siciliana_palermo_b.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "50d2665faac3a9d871b07cd034e7e94ea591b6c6b3cd247f0a79a1567296e6a8",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "mayolica_siciliana_palermo_c.png",
+      "ruta": "ciudad/palermo/mayolica_siciliana_palermo_c.png",
+      "resolution": [
+        1024,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "a80ea237aa383c2c92ef549f8652ccafbeabf6075e911cc5ca7020750cb912a8",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "basalto_etna_palermo_a.png",
+      "ruta": "ciudad/palermo/basalto_etna_palermo_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "0fd1e81e2872f5982e6ba498bcd355d7a58b60006c8dbd4976381b8ee1e8a550",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "basalto_etna_palermo_b.png",
+      "ruta": "ciudad/palermo/basalto_etna_palermo_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6c42b7daab0798f97a87142b1784e41111699acabdd0f564f6f56075654770de",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "basalto_etna_palermo_c.png",
+      "ruta": "ciudad/palermo/basalto_etna_palermo_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "f504d74473fe9689e9b28c9ca5d41c3c81385944828d4113ac799bfecbc9e896",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "porton_claveteado_a.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/porton_claveteado_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6e5cb7d7386d9e139f026d5f19dc8e521dd6b31b0cc67262d2133d081b9a6e75",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "porton_claveteado_b.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/porton_claveteado_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "1e4939d9a4d5ec520da59256139212320b9a89a667586faa5a3aed182f8e07b0",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "porton_claveteado_c.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/porton_claveteado_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d846b2862cd3936a677dce79654f23967b570a2f09017265eeafc88fc41b87f4",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "puerta_humilde_a.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/puerta_humilde_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "3d4ba17ed93af7f959bea49dc3cd3ad3e66b6295bfbe34b40909b69d19783e6c",
+      "repeticion": "no",
+      "lr_error": 93,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "puerta_humilde_b.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/puerta_humilde_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b9d49fd07eb157e723f9722466b2dc50c565c8dee28a3d784d6947557575a175",
+      "repeticion": "no",
+      "lr_error": 77,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "puerta_humilde_c.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/puerta_humilde_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e63bc0ca0d1e13a2d4d94ff14ec0add848ef7305cd7623f045f9e2ae43348558",
+      "repeticion": "no",
+      "lr_error": 58,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "contraventanas_tablas_a.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/contraventanas_tablas_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2f95748172314d1d62f7af0c354db2e9fc9ff4cee1340e951ed7bdccb1856325",
+      "repeticion": "no",
+      "lr_error": 61,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "contraventanas_tablas_b.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/contraventanas_tablas_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "523a4e16cb58da82de1a00ed5ed83bbfa6e16e7c16c9d1ade68d079b61f817b6",
+      "repeticion": "no",
+      "lr_error": 44,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "contraventanas_tablas_c.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/contraventanas_tablas_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "77401b22e6fb45447ea0279acde91dceb9e8b0f393cc3363d1e0b23bf5e2e8d5",
+      "repeticion": "no",
+      "lr_error": 24,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "contraventanas_verdes_a.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/contraventanas_verdes_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "0ac5989b6ffc724ecaa948a37c1db94f3fb6e6414458b17bcefe837c214e40f6",
+      "repeticion": "no",
+      "lr_error": 45,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "contraventanas_verdes_b.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/contraventanas_verdes_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2aaadb1bc5840d322128f8d67436365418abd1fc528a5f4f91af8380e6df8b8a",
+      "repeticion": "no",
+      "lr_error": 34,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "contraventanas_verdes_c.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/contraventanas_verdes_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "4ff83eb08936e8a190f503a193a55cc30ccc7047ae3c59e102489fe4197190cf",
+      "repeticion": "no",
+      "lr_error": 24,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "reja_hierro_a.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/reja_hierro_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "505f2276063877e262573150ebf887e5a70b3e6ce84603af9d6578e7d86f843f",
+      "repeticion": "no",
+      "lr_error": 9,
+      "tb_error": 16,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "reja_hierro_b.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/reja_hierro_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "5aec92a897a7b4b0d70b69f62405f34d71acb66b9d17e263166f7d95257ed7e1",
+      "repeticion": "no",
+      "lr_error": 34,
+      "tb_error": 22,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "reja_hierro_c.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/reja_hierro_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "c73febca933cd84fce88edaf6ae0016919a426a094006eacdcdf10c5d13a3440",
+      "repeticion": "no",
+      "lr_error": 14,
+      "tb_error": 49,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "hierro_oxidado_a.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/hierro_oxidado_a.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "decfa7ce8ae9a9347306f8dc4ff12f484c5fe807846ca3d0c32c63c9f910b181",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "hierro_oxidado_b.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/hierro_oxidado_b.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "8316695c0826eec4fd0ef5a549d589b78791271264dcf9e52c41da696dad3bde",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "hierro_oxidado_c.png",
+      "ruta": "detalles/puertas_ventanas_y_herrajes/hierro_oxidado_c.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "7a7b0be41956f7a7826a3f0515fe06a4c5931e9a4ab6c096dee3256d61a1de70",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "musgo_liquen_teja_a.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/musgo_liquen_teja_a.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "sha256": "cd1fc46212413b959a3970c3246206b69a95c4e3b2a0b32d4174c90f48ade76d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "musgo_liquen_teja_b.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/musgo_liquen_teja_b.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "sha256": "197de24c97c788f5f966d76ec0be636ddcf6a80cad085cb2ca9539177195ce0d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "musgo_liquen_teja_c.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/musgo_liquen_teja_c.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGBA",
+      "sha256": "cec9cec92e3f1fcddbc6ec303c5ef77f1d8dc4de60d3ada23ab8628539f3778e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "suciedad_lluvia_a.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/suciedad_lluvia_a.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "072b0223dc7a19a955c238f4a795df6fd751e0718eaba38ddb87b9773612bfb5",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 39,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "suciedad_lluvia_b.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/suciedad_lluvia_b.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "c302f02ee8a6a609ea9714a0447e19387197fdf91a9990615a25d9157a98e64b",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 66,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "suciedad_lluvia_c.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/suciedad_lluvia_c.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "cbbba03107a5f1c4a675aee8559d3396da9cfd464ad835a20fab5cac80a7fae8",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 92,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "humedad_base_a.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/humedad_base_a.png",
+      "resolution": [
+        512,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "84268fd72e8394cf7bcfc47fbc115575bc4ee40466d1739bbc0badb9e9df1707",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 24,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "humedad_base_b.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/humedad_base_b.png",
+      "resolution": [
+        512,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "7d48de81ef93bae485b888e5457cd7a0619d5cb676631945e4292e3768a7c361",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 43,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "humedad_base_c.png",
+      "ruta": "detalles/envejecimiento_(capas_para_mezclar)/humedad_base_c.png",
+      "resolution": [
+        512,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "c6cb2744a620c2fec23cd562debcca44314f4db72abbc090d92126b836bd1e0a",
+      "repeticion": "horizontal",
+      "lr_error": 0,
+      "tb_error": 61,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sacos_arpillera_a.png",
+      "ruta": "detalles/oficios_y_produccion/sacos_arpillera_a.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "bac509b892feab14a9fab9de1b5b27e78644c9d4e8b8b6e7abcc26ec96fe5c4d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sacos_arpillera_b.png",
+      "ruta": "detalles/oficios_y_produccion/sacos_arpillera_b.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "feb182dfa97a63ad3be7e16e942a7177d449ce6169e35d70e53c8f25d7f1d0a2",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sacos_arpillera_c.png",
+      "ruta": "detalles/oficios_y_produccion/sacos_arpillera_c.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "0a20b5a0cb34f0ad595fa5f74c40a8ba44b79766a315b26b966411cf4096188e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "lena_apilada_a.png",
+      "ruta": "detalles/oficios_y_produccion/lena_apilada_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "757d505d17c8795d99c0c93e6b2f43ab0cb157b04ff90ba28301d7437b52587a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "lena_apilada_b.png",
+      "ruta": "detalles/oficios_y_produccion/lena_apilada_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6395fe06d733355fcc76c34136e68c0051fdcff9a1ad530be052e0ea7a37348f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "lena_apilada_c.png",
+      "ruta": "detalles/oficios_y_produccion/lena_apilada_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "f7f4bd6423fe10642ae2c15794a52fedf383a08db66aeddafc1ddcb810c38599",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "heno_paja_a.png",
+      "ruta": "detalles/oficios_y_produccion/heno_paja_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "2874ac9d907eeb5cf3deb38f79dc6deb71c1acdb38dc40b22aa7a654a1a2b6d9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "heno_paja_b.png",
+      "ruta": "detalles/oficios_y_produccion/heno_paja_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "16a3b36748340997c5f456b6f30e84ee7e5278c0aed5f119ad528ce6cd837de0",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "heno_paja_c.png",
+      "ruta": "detalles/oficios_y_produccion/heno_paja_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "c4b553f00fc1347f36da3e72fd064ec8279c8f05c62c41b9083015d43d3aa72f",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "mineral_hierro_a.png",
+      "ruta": "detalles/oficios_y_produccion/mineral_hierro_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "d5c87d11276a1b7d1a1c1eefab8987f43bc86091a0c34c1854b9f02f0faef440",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "mineral_hierro_b.png",
+      "ruta": "detalles/oficios_y_produccion/mineral_hierro_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "860097c917b336cb91d1394ab1afae0172358027775e51679d26640fa0c90af9",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "mineral_hierro_c.png",
+      "ruta": "detalles/oficios_y_produccion/mineral_hierro_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "cf8db0cfcfa01c9106d36febd7dead0ba5162daec0da6819589a716c2e080836",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "escoria_carbon_a.png",
+      "ruta": "detalles/oficios_y_produccion/escoria_carbon_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ff90720a7aa3b9abb19ed5318d520521290a446209c03b02cb9b4e3a93da7ba5",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "escoria_carbon_b.png",
+      "ruta": "detalles/oficios_y_produccion/escoria_carbon_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "82758200c5a7d524abf715187f73dd808f907b2448bda6943d49f8abf6c54b81",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "escoria_carbon_c.png",
+      "ruta": "detalles/oficios_y_produccion/escoria_carbon_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "06b3d7d64f6ef7bc26dd098d498892bb0fb54a9b29f9c199d69548accd763480",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cantera_marmol_a.png",
+      "ruta": "detalles/oficios_y_produccion/cantera_marmol_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "8795f37f280eed9463263a3d08776b02fb20ad8f6ae53e8229e084331e5b51aa",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cantera_marmol_b.png",
+      "ruta": "detalles/oficios_y_produccion/cantera_marmol_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "03d2787a614037e76c6e71d31e0826d844dfb65f41b3d0ce4e57a9b32b1c51fc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cantera_marmol_c.png",
+      "ruta": "detalles/oficios_y_produccion/cantera_marmol_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "64aa0032f39acb410c80e48d271355132095afecb6d426f5d3259c3dec6f7981",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "duelas_tonel_a.png",
+      "ruta": "detalles/oficios_y_produccion/duelas_tonel_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a7340407111eafd4c9ba830f3c96d99f2a4500b28aa3a5305187e9d663529a00",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "duelas_tonel_b.png",
+      "ruta": "detalles/oficios_y_produccion/duelas_tonel_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "aa2d01eb1f5f3fc8bc6bd1c521a8dde59f943b3048a2ef955ce8fd8387e1cc69",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "duelas_tonel_c.png",
+      "ruta": "detalles/oficios_y_produccion/duelas_tonel_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "529a77e541c1fc08d6b8625c6ff845ecfa494102609a1ea6d0afd5f3e5535705",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ceramica_apilada_a.png",
+      "ruta": "detalles/oficios_y_produccion/ceramica_apilada_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "91469bb401d3d2a876197e09afb8f2264e7349ec2fc63ee599cddd5ca134128c",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ceramica_apilada_b.png",
+      "ruta": "detalles/oficios_y_produccion/ceramica_apilada_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "ffa46c4e09c20416389958529a9bb79cb10513f19b6c495c896dfde62f610be0",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "ceramica_apilada_c.png",
+      "ruta": "detalles/oficios_y_produccion/ceramica_apilada_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e1f533af0fa72acdf18082d26154745cc3191d5785800822842a5b0c5a98cfc8",
+      "repeticion": "no",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "redes_pesca_a.png",
+      "ruta": "detalles/oficios_y_produccion/redes_pesca_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "e16e378763783794e13a207a030e499803f4bfbefa7ed8294519891f451e4af0",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "redes_pesca_b.png",
+      "ruta": "detalles/oficios_y_produccion/redes_pesca_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "663de6863749b877670eedd27a1caab3fb539e69d1b55fb24887843f217856c2",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "redes_pesca_c.png",
+      "ruta": "detalles/oficios_y_produccion/redes_pesca_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGBA",
+      "sha256": "490a010700a6c9f8ab013ab0017378b242f184cd189a5194cb78e0cec7b66717",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "telas_seda_a.png",
+      "ruta": "detalles/oficios_y_produccion/telas_seda_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b6705986283a125cf0cdbae66d55da9858b9222e690977344c9aae61ceac5fc7",
+      "repeticion": "no",
+      "lr_error": 89,
+      "tb_error": 4,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "telas_seda_b.png",
+      "ruta": "detalles/oficios_y_produccion/telas_seda_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "7895f3ff09aa48a6b1984d2268cc3c1f94d31f759405c28482974a8db7bcde77",
+      "repeticion": "no",
+      "lr_error": 89,
+      "tb_error": 4,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "telas_seda_c.png",
+      "ruta": "detalles/oficios_y_produccion/telas_seda_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "54abfa5ed4d6117a58bf353f06e3c9c44c9638c3155f5efe60172c5755c34bc9",
+      "repeticion": "no",
+      "lr_error": 88,
+      "tb_error": 4,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cuero_curtido_a.png",
+      "ruta": "detalles/oficios_y_produccion/cuero_curtido_a.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "5c6adb72363b326791710bf8d356651730c1e60184c33dc7a3dc4f3019361060",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cuero_curtido_b.png",
+      "ruta": "detalles/oficios_y_produccion/cuero_curtido_b.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "60eb589da23230d72f4f41b87065023315b28bd32cd3e8ba7a547f853b40f607",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cuero_curtido_c.png",
+      "ruta": "detalles/oficios_y_produccion/cuero_curtido_c.png",
+      "resolution": [
+        256,
+        256
+      ],
+      "mode": "RGB",
+      "sha256": "1ef388f02c8e6a40b5f4bf6eb8c205b112c7adda68a3bc317a50a0dea9c3536a",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "madera_andamio_a.png",
+      "ruta": "detalles/obras/madera_andamio_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e64ef8daf45f79cca9b96f94fdd25b1d2bf959ba79f2f16bd35e987b097c9dbf",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "madera_andamio_b.png",
+      "ruta": "detalles/obras/madera_andamio_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "a84fa6e17631e523f445b939e2b9be906044bab9dd39e4242e7ec7031e99baa0",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "madera_andamio_c.png",
+      "ruta": "detalles/obras/madera_andamio_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "4777008280e5bfd1340de004566efb5f66ecf6db4c5b75a7dd89b96020fc7a9c",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_bruto_a.png",
+      "ruta": "detalles/obras/piedra_bruto_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6409ec652e30924ba061298365f04c115d77afbb5a666e911f9a0c8321dc7efd",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_bruto_b.png",
+      "ruta": "detalles/obras/piedra_bruto_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "4a073d0073d79f6ee9e7d5d48f335614350cbcde363ec662146a01bd3cca1e72",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "piedra_bruto_c.png",
+      "ruta": "detalles/obras/piedra_bruto_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "6f469cfadff57a9a318d8a41797cec0c0ae0fd955452d022b49d45c9a50bc0c4",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cal_mortero_a.png",
+      "ruta": "detalles/obras/cal_mortero_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "738d63207766378788ca49fb2baeae919ea335b9aaeada8ace37ad4c3248c473",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cal_mortero_b.png",
+      "ruta": "detalles/obras/cal_mortero_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "f700ccc745259251c54de0fad5722ade222be9e9f2859394deaca3baabc63132",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "cal_mortero_c.png",
+      "ruta": "detalles/obras/cal_mortero_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "5f23b1c0a338b682f5098eae4166e4696ca639c22dc9452267d56d875c8f3d8e",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sillares_muralla_a.png",
+      "ruta": "detalles/murallas_y_militar/sillares_muralla_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "bd11ce7ec99a0368e9cbb16e19f022b16b313d23d46658cb584fec6809b8349d",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sillares_muralla_b.png",
+      "ruta": "detalles/murallas_y_militar/sillares_muralla_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "73eb09f27e5b0b0cd2947be5075019358642f3fd802f94510352bbe13a830880",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "sillares_muralla_c.png",
+      "ruta": "detalles/murallas_y_militar/sillares_muralla_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "91a164f3e2da0d1736c9cd43f9fd919603858869549a28b194461eb719a28956",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "muralla_ladrillo_piedra_a.png",
+      "ruta": "detalles/murallas_y_militar/muralla_ladrillo_piedra_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "b2db175d7c3b2299ae35bd8cccdb2989e3119b1485c64a5378209f7297f160cc",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "muralla_ladrillo_piedra_b.png",
+      "ruta": "detalles/murallas_y_militar/muralla_ladrillo_piedra_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "e75e3207ae0a3dbb3da3dadee95618501ee06ed88edaaadbf9e43f79a07d1680",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "muralla_ladrillo_piedra_c.png",
+      "ruta": "detalles/murallas_y_militar/muralla_ladrillo_piedra_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "29eb7a4106e4477ce479794389deacfbd506c85d80e334e4dc5aa73510206e00",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "alta"
+    },
+    {
+      "archivo": "tierra_cuartel_a.png",
+      "ruta": "detalles/murallas_y_militar/tierra_cuartel_a.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "91e4d70cfa3293a76a3d07c4e19fa4d448aaba1f354760aceac1699f5573b5b8",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_cuartel_b.png",
+      "ruta": "detalles/murallas_y_militar/tierra_cuartel_b.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "67881580ab7793ff4808c8c3c782c1dcc866936adbbaeb066caeee8d899ea095",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    },
+    {
+      "archivo": "tierra_cuartel_c.png",
+      "ruta": "detalles/murallas_y_militar/tierra_cuartel_c.png",
+      "resolution": [
+        512,
+        512
+      ],
+      "mode": "RGB",
+      "sha256": "c7e3380a59c7dd9b4183f3203cb2050eeae31561819513f3fa091fe97c53f9af",
+      "repeticion": "ambos",
+      "lr_error": 0,
+      "tb_error": 0,
+      "estado": "generada",
+      "estado_qa": "pendiente_blender",
+      "prioridad": "media"
+    }
+  ]
+}
